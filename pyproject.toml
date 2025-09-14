@@ -1,0 +1,16 @@
+[project]
+name = "dom-name-gen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bitsandbytes>=0.47.0",
+    "colorama>=0.4.6",
+    "datasets>=4.0.0",
+    "litellm>=1.77.1",
+    "peft>=0.17.1",
+    "torch>=2.8.0",
+    "transformers>=4.56.1",
+    "trl>=0.23.0",
+]
