@@ -16,3 +16,6 @@ dependencies = [
     "transformers>=4.56.1",
     "trl>=0.23.0",
 ]
+[tool.setuptools.packages.find]
+include = ["dom_name_gen"]
+exclude = ["data", "dvc_data_storage"]

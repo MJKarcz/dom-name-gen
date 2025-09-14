@@ -1,0 +1,6284 @@
+[
+  {
+    "business_description": "An eco-friendly cleaning service specializing in biodegradable products for urban households.",
+    "domain_names": [
+      "greencleaners.com",
+      "ecourbanclean.io",
+      "biofreshservices.net"
+    ]
+  },
+  {
+    "business_description": "Cloud-based bookkeeping for freelancers and small agencies with real-time dashboards.",
+    "domain_names": [
+      "swiftledger.com",
+      "freelancebooks.io",
+      "cashflowdash.app"
+    ]
+  },
+  {
+    "business_description": "A neighborhood bakery crafting sourdough breads and seasonal pastries using local grains.",
+    "domain_names": [
+      "hearthgrainbakery.com",
+      "localsourdough.co",
+      "seasonalcrumbs.shop"
+    ]
+  },
+  {
+    "business_description": "Mobile app offering guided meditations and breathing exercises for stressed professionals.",
+    "domain_names": [
+      "calmbreak.app",
+      "breathworkpro.io",
+      "mindfulminute.co"
+    ]
+  },
+  {
+    "business_description": "A boutique branding studio helping ethical startups design purposeful identities.",
+    "domain_names": [
+      "kindmark.studio",
+      "ethosbranding.agency",
+      "purposepixels.design"
+    ]
+  },
+  {
+    "business_description": "On-demand dog walking and pet sitting with GPS-tracked routes in suburban neighborhoods.",
+    "domain_names": [
+      "wagpath.com",
+      "pawsroute.app",
+      "suburbanpetcare.co"
+    ]
+  },
+  {
+    "business_description": "A telehealth clinic focused on dermatology, offering virtual consults and treatment plans.",
+    "domain_names": [
+      "dermify.health",
+      "skinconsult.app",
+      "teledermclinic.com"
+    ]
+  },
+  {
+    "business_description": "An online marketplace connecting independent coffee roasters with specialty coffee lovers.",
+    "domain_names": [
+      "roastmarketplace.com",
+      "craftcoffee.shop",
+      "beanbazaar.co"
+    ]
+  },
+  {
+    "business_description": "AI-powered resume and portfolio builder tailored for creative professionals.",
+    "domain_names": [
+      "folioforge.ai",
+      "creativeresume.app",
+      "portfolioboost.io"
+    ]
+  },
+  {
+    "business_description": "A small-town hardware store offering tool rentals, DIY workshops, and curbside pickup.",
+    "domain_names": [
+      "maplehardware.com",
+      "toolnook.shop",
+      "diybarn.co"
+    ]
+  },
+  {
+    "business_description": "SaaS platform for B2B subscription analytics, churn prediction, and cohort tracking.",
+    "domain_names": [
+      "sublytics.io",
+      "churnwatch.ai",
+      "planmetrics.cloud"
+    ]
+  },
+  {
+    "business_description": "An independent bookshop with a curated selection, author events, and a cozy cafe.",
+    "domain_names": [
+      "inkandemberbooks.com",
+      "chapterandcafe.co",
+      "readersroost.shop"
+    ]
+  },
+  {
+    "business_description": "Electric bike rental service for tourists exploring coastal trails and city sights.",
+    "domain_names": [
+      "coastebikerentals.com",
+      "citypedal.co",
+      "shorecycle.app"
+    ]
+  },
+  {
+    "business_description": "Cybersecurity consultancy helping SMEs with audits, incident response, and training.",
+    "domain_names": [
+      "shieldcraft.security",
+      "auditguard.io",
+      "cyberwise.consulting"
+    ]
+  },
+  {
+    "business_description": "Farm-to-table meal kits sourced from local farms, delivered weekly.",
+    "domain_names": [
+      "harvestkits.com",
+      "localtable.co",
+      "farmfreshbox.shop"
+    ]
+  },
+  {
+    "business_description": "3D printing service for prototypes, custom parts, and short-run manufacturing.",
+    "domain_names": [
+      "printforge3d.com",
+      "rapidprototype.io",
+      "modupart.studio"
+    ]
+  },
+  {
+    "business_description": "An urban community garden cooperative offering plots, workshops, and seed swaps.",
+    "domain_names": [
+      "citysprout.org",
+      "urbangrowers.co",
+      "seedcircle.community"
+    ]
+  },
+  {
+    "business_description": "Mobile repair shop for smartphones and tablets with same-day service.",
+    "domain_names": [
+      "snapfixmobile.com",
+      "taprepair.co",
+      "quickdevice.io"
+    ]
+  },
+  {
+    "business_description": "A nonprofit food bank coordinating donations, volunteers, and pantry distributions.",
+    "domain_names": [
+      "harvesthelp.org",
+      "pantrypartners.org",
+      "mealmosaic.org"
+    ]
+  },
+  {
+    "business_description": "Online coding bootcamp teaching full-stack web development with live mentors.",
+    "domain_names": [
+      "stackpath.academy",
+      "codecoach.live",
+      "devspring.io"
+    ]
+  },
+  {
+    "business_description": "Subscription tea company offering rare single-origin leaves and tasting notes.",
+    "domain_names": [
+      "leafparcel.com",
+      "rareteaclub.co",
+      "steepcrate.shop"
+    ]
+  },
+  {
+    "business_description": "Mobile fitness training for busy parents with stroller-friendly workouts in parks.",
+    "domain_names": [
+      "parkstrollfit.com",
+      "momdadmove.co",
+      "strollerstrong.app"
+    ]
+  },
+  {
+    "business_description": "An interior design studio specializing in minimal Scandinavian-inspired spaces.",
+    "domain_names": [
+      "nordnest.design",
+      "minimalhearth.studio",
+      "scandihouse.co"
+    ]
+  },
+  {
+    "business_description": "AI-driven A/B testing tool that automates experiments for ecommerce stores.",
+    "domain_names": [
+      "optisplit.ai",
+      "abpilot.io",
+      "storeexperiments.com"
+    ]
+  },
+  {
+    "business_description": "A boutique travel agency curating slow travel itineraries and eco-lodging.",
+    "domain_names": [
+      "slowtrailtravel.com",
+      "ecojourneys.co",
+      "wanderlilt.com"
+    ]
+  },
+  {
+    "business_description": "Local landscaping company focusing on drought-tolerant gardens and native plants.",
+    "domain_names": [
+      "drygardenscape.com",
+      "nativeyard.co",
+      "xeriscapepros.net"
+    ]
+  },
+  {
+    "business_description": "A global talent marketplace connecting NGOs with skilled volunteer professionals.",
+    "domain_names": [
+      "impactmatch.org",
+      "skillbridge.global",
+      "volunteerpro.net"
+    ]
+  },
+  {
+    "business_description": "A boutique hotel near a national park offering guided hikes and stargazing.",
+    "domain_names": [
+      "trailviewhotel.com",
+      "stargazerinn.co",
+      "parkhavenstay.com"
+    ]
+  },
+  {
+    "business_description": "Web accessibility consultancy helping brands meet WCAG standards and ADA compliance.",
+    "domain_names": [
+      "accessibly.io",
+      "wcagworks.com",
+      "inclusivesites.co"
+    ]
+  },
+  {
+    "business_description": "Artisanal cheese shop with monthly tasting events and a curated subscription box.",
+    "domain_names": [
+      "curdandcave.com",
+      "artisancheese.shop",
+      "meltedmornings.co"
+    ]
+  },
+  {
+    "business_description": "Sustainable fashion brand using recycled materials and transparent supply chains.",
+    "domain_names": [
+      "reloomed.co",
+      "clearthread.com",
+      "circularwardrobe.shop"
+    ]
+  },
+  {
+    "business_description": "A virtual events platform offering networking tables, expo booths, and analytics.",
+    "domain_names": [
+      "gatherview.live",
+      "expoverse.io",
+      "virtualhalls.com"
+    ]
+  },
+  {
+    "business_description": "Neighborhood bike repair shop with tune-ups, fittings, and community rides.",
+    "domain_names": [
+      "spokeshub.com",
+      "fixmyride.co",
+      "neighborhoodcycles.shop"
+    ]
+  },
+  {
+    "business_description": "Online language tutoring pairing native speakers with learners for live lessons.",
+    "domain_names": [
+      "lingolink.app",
+      "nativecoach.io",
+      "speakloop.com"
+    ]
+  },
+  {
+    "business_description": "A social enterprise selling fair-trade coffee that funds education programs.",
+    "domain_names": [
+      "brewforbooks.org",
+      "faircupcoffee.com",
+      "learnwithlatte.org"
+    ]
+  },
+  {
+    "business_description": "Cloud kitchen specializing in plant-based comfort food for delivery-only.",
+    "domain_names": [
+      "plantpantry.co",
+      "vegcloudkitchen.com",
+      "comfortgreens.app"
+    ]
+  },
+  {
+    "business_description": "AI recruitment assistant screening resumes and scheduling interviews for HR teams.",
+    "domain_names": [
+      "hirepilot.ai",
+      "screenwise.io",
+      "talentrelay.com"
+    ]
+  },
+  {
+    "business_description": "A children’s science museum offering hands-on exhibits and weekend workshops.",
+    "domain_names": [
+      "sparkcuriosity.org",
+      "kidsciencecenter.org",
+      "handsonlabs.co"
+    ]
+  },
+  {
+    "business_description": "Independent podcast network producing investigative journalism and culture shows.",
+    "domain_names": [
+      "storysignal.fm",
+      "deepdivepodcasts.com",
+      "culturecast.network"
+    ]
+  },
+  {
+    "business_description": "Zero-waste grocery store with refill stations for pantry staples and cleaners.",
+    "domain_names": [
+      "refillroot.com",
+      "zerocrate.shop",
+      "bulkandbare.co"
+    ]
+  },
+  {
+    "business_description": "A fintech app enabling teenagers to budget, save, and learn financial literacy.",
+    "domain_names": [
+      "sproutwallet.app",
+      "teenteachmoney.com",
+      "budgetbuddy.io"
+    ]
+  },
+  {
+    "business_description": "Consultancy helping manufacturers implement lean operations and Industry 4.0.",
+    "domain_names": [
+      "leanforge.consulting",
+      "indus4labs.com",
+      "smartfactorypro.io"
+    ]
+  },
+  {
+    "business_description": "Boutique law firm specializing in startups, venture financing, and IP.",
+    "domain_names": [
+      "seedlawgroup.com",
+      "venturecounsel.law",
+      "ipharborlegal.com"
+    ]
+  },
+  {
+    "business_description": "Smart irrigation systems for residential yards with weather-based scheduling.",
+    "domain_names": [
+      "raingrid.io",
+      "smartsoak.com",
+      "yardflow.tech"
+    ]
+  },
+  {
+    "business_description": "A mobile barber service offering at-home grooming for busy professionals.",
+    "domain_names": [
+      "trimtoyou.com",
+      "onbarber.co",
+      "freshcutmobile.app"
+    ]
+  },
+  {
+    "business_description": "Online art gallery showcasing emerging artists with limited edition prints.",
+    "domain_names": [
+      "newmusegallery.com",
+      "printquarters.art",
+      "emergeprints.co"
+    ]
+  },
+  {
+    "business_description": "Handmade candle studio using soy wax and essential oils with seasonal scents.",
+    "domain_names": [
+      "emberandever.com",
+      "soyscentshop.co",
+      "purewickcandles.shop"
+    ]
+  },
+  {
+    "business_description": "Fleet management SaaS for delivery companies with route optimization and tracking.",
+    "domain_names": [
+      "routepilot.io",
+      "fleetflux.cloud",
+      "deliverwise.app"
+    ]
+  },
+  {
+    "business_description": "Neighborhood yoga studio offering heated classes, breathwork, and restorative sessions.",
+    "domain_names": [
+      "emberyoga.studio",
+      "flowandrestore.co",
+      "heatyoga.club"
+    ]
+  },
+  {
+    "business_description": "An online store selling heirloom seeds and gardening kits for beginners.",
+    "domain_names": [
+      "seedandstart.com",
+      "heirloomgrow.shop",
+      "sproutkit.co"
+    ]
+  },
+  {
+    "business_description": "A sustainable packaging supplier offering compostable mailers and paper alternatives.",
+    "domain_names": [
+      "packearth.co",
+      "compostmailer.com",
+      "paperpath.green"
+    ]
+  },
+  {
+    "business_description": "Cross-border payments platform for SMBs with transparent FX and instant payouts.",
+    "domain_names": [
+      "borderpay.io",
+      "clearfxpay.com",
+      "swiftsettle.app"
+    ]
+  },
+  {
+    "business_description": "Local craft brewery with a taproom, rotating food trucks, and live music weekends.",
+    "domain_names": [
+      "rusticbarrelbrew.com",
+      "taproomseven.co",
+      "hopsandhowls.pub"
+    ]
+  },
+  {
+    "business_description": "Digital adoption platform that guides users through complex enterprise software.",
+    "domain_names": [
+      "walkflow.io",
+      "adopthq.com",
+      "guidepath.app"
+    ]
+  },
+  {
+    "business_description": "Vintage clothing boutique curated for 90s streetwear and designer finds.",
+    "domain_names": [
+      "retrothreadsboutique.com",
+      "ninetyfinds.shop",
+      "streetvint.co"
+    ]
+  },
+  {
+    "business_description": "A solar installation company providing rooftop systems and smart monitoring.",
+    "domain_names": [
+      "sunsetgrid.com",
+      "rooftopsolar.co",
+      "brightmeter.io"
+    ]
+  },
+  {
+    "business_description": "On-demand IT support for home offices, remote setups, and network troubleshooting.",
+    "domain_names": [
+      "hometechhelp.com",
+      "remotefix.io",
+      "routerrescue.co"
+    ]
+  },
+  {
+    "business_description": "Local farmers market organizer with vendor coordination and online pre-orders.",
+    "domain_names": [
+      "marketmornings.org",
+      "freshrow.co",
+      "vendorharvest.com"
+    ]
+  },
+  {
+    "business_description": "A B2B marketplace for surplus construction materials and reclaimed fixtures.",
+    "domain_names": [
+      "rebuildmarket.com",
+      "surplusstone.co",
+      "salvagegrid.io"
+    ]
+  },
+  {
+    "business_description": "Subscription-based car wash service offering waterless detailing at your driveway.",
+    "domain_names": [
+      "drivewaydetail.com",
+      "washless.co",
+      "shineplan.app"
+    ]
+  },
+  {
+    "business_description": "AI note-taking assistant that records, transcribes, and summarizes meetings.",
+    "domain_names": [
+      "meetmind.ai",
+      "clearnotes.app",
+      "autominutes.io"
+    ]
+  },
+  {
+    "business_description": "Community coworking space with maker tools, podcast booths, and classes.",
+    "domain_names": [
+      "forgeanddesk.com",
+      "makerscowork.co",
+      "studiohub.space"
+    ]
+  },
+  {
+    "business_description": "A dental clinic focusing on preventive care, Invisalign, and cosmetic dentistry.",
+    "domain_names": [
+      "brightbiteclinic.com",
+      "preventsmiles.health",
+      "alignaesthetic.dental"
+    ]
+  },
+  {
+    "business_description": "Handcrafted furniture studio building custom tables and shelving from reclaimed wood.",
+    "domain_names": [
+      "grainandgraft.com",
+      "reclaimcraft.co",
+      "woodenweave.studio"
+    ]
+  },
+  {
+    "business_description": "Niche job board for climate tech roles across startups and NGOs.",
+    "domain_names": [
+      "climatetalent.com",
+      "greenjobsboard.org",
+      "sustainhire.co"
+    ]
+  },
+  {
+    "business_description": "Mobile app for tracking hiking trails, offline maps, and safety alerts.",
+    "domain_names": [
+      "trailbeacon.app",
+      "pathmap.io",
+      "hikeguard.co"
+    ]
+  },
+  {
+    "business_description": "Homemade dumpling food truck with rotating regional flavors and sauces.",
+    "domain_names": [
+      "dumplingdrive.com",
+      "saucysacks.co",
+      "rollandsteam.food"
+    ]
+  },
+  {
+    "business_description": "Bespoke tailoring studio offering suits, alterations, and fabric consultations.",
+    "domain_names": [
+      "threadandmeasure.com",
+      "bespokelane.co",
+      "fittingroom.studio"
+    ]
+  },
+  {
+    "business_description": "SaaS for schools to manage parent communication, payments, and calendars.",
+    "domain_names": [
+      "schoolstream.app",
+      "parentbridge.io",
+      "campushub.cloud"
+    ]
+  },
+  {
+    "business_description": "Startup incubator offering mentorship, seed funding, and prototyping labs.",
+    "domain_names": [
+      "seedforge.ventures",
+      "foundryincubator.com",
+      "launchworks.co"
+    ]
+  },
+  {
+    "business_description": "A marine conservation nonprofit funding reef restoration and citizen science.",
+    "domain_names": [
+      "reefrenewal.org",
+      "oceanstewards.org",
+      "bluehorizonfund.org"
+    ]
+  },
+  {
+    "business_description": "Global remittance service with fee-free transfers between friends and family.",
+    "domain_names": [
+      "kinpay.com",
+      "feelessremit.io",
+      "sendcircle.app"
+    ]
+  },
+  {
+    "business_description": "Microbrew coffee cart serving single-origin pours at office parks and events.",
+    "domain_names": [
+      "parkpourover.com",
+      "microbrewcart.co",
+      "beanbicycle.cafe"
+    ]
+  },
+  {
+    "business_description": "AI-powered document processing for invoices, receipts, and contracts.",
+    "domain_names": [
+      "docudelta.ai",
+      "paperparse.io",
+      "invoicelift.com"
+    ]
+  },
+  {
+    "business_description": "Home renovation contractors emphasizing energy efficiency and smart home upgrades.",
+    "domain_names": [
+      "renovasmart.com",
+      "efficiencynest.co",
+      "greengridhomes.com"
+    ]
+  },
+  {
+    "business_description": "Indie game studio creating narrative-driven puzzle adventures for mobile.",
+    "domain_names": [
+      "storyspoke.games",
+      "puzzlenest.studio",
+      "narrativelab.app"
+    ]
+  },
+  {
+    "business_description": "Marketplace for local artisans to sell handcrafted jewelry and home decor.",
+    "domain_names": [
+      "handheard.com",
+      "artisanlane.shop",
+      "craftcircle.market"
+    ]
+  },
+  {
+    "business_description": "Analytics platform for Shopify stores with cohort analysis and LTV projections.",
+    "domain_names": [
+      "shoplytics.io",
+      "cohortcart.com",
+      "ltvinsight.app"
+    ]
+  },
+  {
+    "business_description": "Organic skincare line formulated for sensitive skin with fragrance-free options.",
+    "domain_names": [
+      "purequietskin.com",
+      "sensibotanica.co",
+      "calmderm.shop"
+    ]
+  },
+  {
+    "business_description": "Local taxi cooperative with transparent pricing and driver ownership.",
+    "domain_names": [
+      "cooptaxi.com",
+      "fairfare.co",
+      "rideroost.app"
+    ]
+  },
+  {
+    "business_description": "Fine art photography studio specializing in black-and-white portraiture.",
+    "domain_names": [
+      "silvergrainphoto.com",
+      "monoatelier.studio",
+      "fineportraits.art"
+    ]
+  },
+  {
+    "business_description": "Digital archive service for families to scan, tag, and preserve memories.",
+    "domain_names": [
+      "memorybinder.com",
+      "scanandremember.co",
+      "heirloomvault.app"
+    ]
+  },
+  {
+    "business_description": "Robotics kits for kids with coding lessons and community challenges.",
+    "domain_names": [
+      "botboxkids.com",
+      "codeandcircuit.co",
+      "makerbots.academy"
+    ]
+  },
+  {
+    "business_description": "Urban compost pickup service for apartments and restaurants.",
+    "domain_names": [
+      "citysoil.co",
+      "compostloop.com",
+      "greenscraps.org"
+    ]
+  },
+  {
+    "business_description": "Technical writing agency creating docs and tutorials for developer tools.",
+    "domain_names": [
+      "docsguild.dev",
+      "writeapi.io",
+      "sdkmanuals.com"
+    ]
+  },
+  {
+    "business_description": "Catering company specializing in Mediterranean mezze and corporate lunches.",
+    "domain_names": [
+      "mezzemarketcatering.com",
+      "oliveandthyme.co",
+      "plateandpasser.com"
+    ]
+  },
+  {
+    "business_description": "Brand merch storefronts for creators with print-on-demand and global shipping.",
+    "domain_names": [
+      "fanthread.shop",
+      "creatormerch.io",
+      "brandbundles.com"
+    ]
+  },
+  {
+    "business_description": "AI-driven pathology image analysis for faster, more accurate diagnostics.",
+    "domain_names": [
+      "pathoview.ai",
+      "slideintel.health",
+      "histolens.io"
+    ]
+  },
+  {
+    "business_description": "Local bike share for college campuses with smart locks and student pricing.",
+    "domain_names": [
+      "campuscycle.co",
+      "stulockbike.com",
+      "campusbike.app"
+    ]
+  },
+  {
+    "business_description": "Specialty running store offering gait analysis and personalized shoe fitting.",
+    "domain_names": [
+      "strideandfit.com",
+      "runprofile.co",
+      "gaitlab.store"
+    ]
+  },
+  {
+    "business_description": "Ethical hacking training platform with labs, certifications, and career paths.",
+    "domain_names": [
+      "hackpath.io",
+      "redteamlabs.dev",
+      "cybertrack.academy"
+    ]
+  },
+  {
+    "business_description": "A vegan deli serving plant-based sandwiches, soups, and desserts.",
+    "domain_names": [
+      "greendelidaily.com",
+      "plantplate.co",
+      "vegans Spoon.shop"
+    ]
+  },
+  {
+    "business_description": "Corporate wellness program with on-site yoga, nutrition talks, and coaching.",
+    "domain_names": [
+      "wellworks.company",
+      "officeom.co",
+      "corpwellness.pro"
+    ]
+  },
+  {
+    "business_description": "Drone-based crop monitoring service providing NDVI maps and irrigation insights.",
+    "domain_names": [
+      "fieldflight.ag",
+      "cropvision.io",
+      "ndvimap.com"
+    ]
+  },
+  {
+    "business_description": "A craft chocolate brand sourcing single-origin cacao and small-batch roasts.",
+    "domain_names": [
+      "cacaocove.com",
+      "singleoriginchoc.co",
+      "batchandbar.shop"
+    ]
+  },
+  {
+    "business_description": "Personal finance blog teaching first-time earners how to budget and invest.",
+    "domain_names": [
+      "freshfunds.blog",
+      "startsmartmoney.com",
+      "budgetbeginner.co"
+    ]
+  },
+  {
+    "business_description": "Electric scooter repair and maintenance with mobile technicians and parts.",
+    "domain_names": [
+      "scooterfixer.com",
+      "voltspanner.co",
+      "rideservice.io"
+    ]
+  },
+  {
+    "business_description": "A peer-to-peer lending platform for small community projects and microloans.",
+    "domain_names": [
+      "neighborlend.org",
+      "communitymicrofund.com",
+      "smallloan.co"
+    ]
+  },
+  {
+    "business_description": "Art supply shop focused on watercolor paints, papers, and brushes.",
+    "domain_names": [
+      "aquarelleshop.com",
+      "watercolorworks.co",
+      "paperandpigment.store"
+    ]
+  },
+  {
+    "business_description": "Esports team management and analytics platform for coaches and players.",
+    "domain_names": [
+      "ggcoach.io",
+      "teamstat.gg",
+      "playermetrix.app"
+    ]
+  },
+  {
+    "business_description": "B2B SaaS for contract lifecycle management with e-sign and clause libraries.",
+    "domain_names": [
+      "clausely.io",
+      "contractflow.cloud",
+      "pactsuite.com"
+    ]
+  },
+  {
+    "business_description": "Mobile car detailing for fleet vehicles and rideshare drivers.",
+    "domain_names": [
+      "fleetshine.co",
+      "ridescrub.com",
+      "detaildash.app"
+    ]
+  },
+  {
+    "business_description": "Custom PC builder for gamers with performance tuning and RGB designs.",
+    "domain_names": [
+      "pixelrigs.com",
+      "gamtune.co",
+      "rgbforge.io"
+    ]
+  },
+  {
+    "business_description": "A non-alcoholic cocktail bar with crafted mocktails and live DJs.",
+    "domain_names": [
+      "drybarbeats.com",
+      "mocktailroom.co",
+      "soberlounge.club"
+    ]
+  },
+  {
+    "business_description": "Local farmers cooperative selling CSA shares and hosting farm tours.",
+    "domain_names": [
+      "harvestco-op.org",
+      "fieldfamily.co",
+      "csaboxfarm.com"
+    ]
+  },
+  {
+    "business_description": "AI music generator for content creators with royalty-free licensing.",
+    "domain_names": [
+      "tuneweave.ai",
+      "audiomint.io",
+      "beatcraft.app"
+    ]
+  },
+  {
+    "business_description": "A boutique cycling studio offering themed rides and live DJ classes.",
+    "domain_names": [
+      "rideandrhythm.com",
+      "spinroom.co",
+      "djcycle.club"
+    ]
+  },
+  {
+    "business_description": "Sustainable shoe brand using recycled ocean plastics and natural rubber.",
+    "domain_names": [
+      "tidewalk.com",
+      "oceansole.co",
+      "renewsole.shop"
+    ]
+  },
+  {
+    "business_description": "Marketplace matching retirees with flexible, paid mentorship opportunities.",
+    "domain_names": [
+      "sagegigs.com",
+      "mentorsilver.co",
+      "retireeconnect.org"
+    ]
+  },
+  {
+    "business_description": "Cloud-native log management with streaming queries and anomaly detection.",
+    "domain_names": [
+      "logriver.io",
+      "streamlogs.cloud",
+      "anomalytail.dev"
+    ]
+  },
+  {
+    "business_description": "Mobile notary service providing same-day document notarizations at your location.",
+    "domain_names": [
+      "signswiftnotary.com",
+      "onthenotary.co",
+      "sealrunner.app"
+    ]
+  },
+  {
+    "business_description": "A children’s toy library lending educational toys and hosting play sessions.",
+    "domain_names": [
+      "toytrove.org",
+      "playlibrary.co",
+      "borrowandplay.club"
+    ]
+  },
+  {
+    "business_description": "Plant shop offering rare houseplants, care guides, and monthly subscriptions.",
+    "domain_names": [
+      "urbanfernery.com",
+      "rareleaf.co",
+      "plantpost.shop"
+    ]
+  },
+  {
+    "business_description": "Healthcare staffing marketplace connecting nurses with per diem shifts.",
+    "domain_names": [
+      "nursegigs.health",
+      "shiftbridge.io",
+      "medstaffmatch.com"
+    ]
+  },
+  {
+    "business_description": "Urban mobility startup building lightweight electric cargo bikes for deliveries.",
+    "domain_names": [
+      "cargolight.io",
+      "cityhaulbike.com",
+      "voltcarrier.co"
+    ]
+  },
+  {
+    "business_description": "Zero-proof bottle shop selling craft spirits alternatives and mixers.",
+    "domain_names": [
+      "drymixbottles.com",
+      "zeroproof.shop",
+      "altspirits.co"
+    ]
+  },
+  {
+    "business_description": "A conference for product managers featuring workshops and case studies.",
+    "domain_names": [
+      "pmcraftconf.com",
+      "productworks.events",
+      "buildbetter.live"
+    ]
+  },
+  {
+    "business_description": "Community-supported fishery delivering sustainably caught seafood weekly.",
+    "domain_names": [
+      "docktodoorsea.com",
+      "csafishbox.co",
+      "tideliner.shop"
+    ]
+  },
+  {
+    "business_description": "A city-based courier network using cargo bikes for same-day deliveries.",
+    "domain_names": [
+      "pedalpivot.com",
+      "citycargo.co",
+      "samebike.delivery"
+    ]
+  },
+  {
+    "business_description": "Data labeling platform with expert reviewers for computer vision datasets.",
+    "domain_names": [
+      "labelcraft.ai",
+      "visionverify.io",
+      "annotatepro.app"
+    ]
+  },
+  {
+    "business_description": "Boutique wedding planning with eco-friendly decor and local vendors.",
+    "domain_names": [
+      "evergreenweds.com",
+      "greenaisle.co",
+      "localvows.studio"
+    ]
+  },
+  {
+    "business_description": "A women’s health clinic providing fertility counseling and prenatal care.",
+    "domain_names": [
+      "wellnessmama.health",
+      "prenatalpath.com",
+      "fertilecare.clinic"
+    ]
+  },
+  {
+    "business_description": "Pet-friendly cafe with an adoption corner and training classes.",
+    "domain_names": [
+      "pawsandpour.cafe",
+      "adoptacup.co",
+      "petfriendlybrew.com"
+    ]
+  },
+  {
+    "business_description": "Digital collectibles platform for independent illustrators and fans.",
+    "domain_names": [
+      "drawndrops.com",
+      "collectink.io",
+      "mintedlines.art"
+    ]
+  },
+  {
+    "business_description": "Neighborhood tutoring center specializing in math and SAT prep.",
+    "domain_names": [
+      "sumandscore.com",
+      "northhilltutors.co",
+      "prepcoach.center"
+    ]
+  },
+  {
+    "business_description": "Online course platform for culinary arts with chef-led video classes.",
+    "domain_names": [
+      "chefskill.academy",
+      "cookcraft.app",
+      "kitchenmasterclass.com"
+    ]
+  },
+  {
+    "business_description": "SaaS for OKR management with progress tracking and team check-ins.",
+    "domain_names": [
+      "okrly.io",
+      "goalgrid.app",
+      "teamresults.cloud"
+    ]
+  },
+  {
+    "business_description": "A VR arcade offering multiplayer experiences and corporate team events.",
+    "domain_names": [
+      "neonarcadevr.com",
+      "teamverse.co",
+      "playvoid.gg"
+    ]
+  },
+  {
+    "business_description": "Gourmet popcorn company with unique flavors and gift tins.",
+    "domain_names": [
+      "popalchemy.com",
+      "tinfresh.co",
+      "gourmetkernels.shop"
+    ]
+  },
+  {
+    "business_description": "A climate accounting tool helping SMEs measure and reduce their emissions.",
+    "domain_names": [
+      "carboncount.io",
+      "sustainscore.co",
+      "emissionwise.com"
+    ]
+  },
+  {
+    "business_description": "Custom sign maker crafting neon and LED signs for businesses and weddings.",
+    "domain_names": [
+      "glowsignstudio.com",
+      "neoncraft.co",
+      "ledletter.shop"
+    ]
+  },
+  {
+    "business_description": "Career coaching for mid-level professionals seeking leadership roles.",
+    "domain_names": [
+      "stepuplab.com",
+      "leadnext.co",
+      "careercompass.pro"
+    ]
+  },
+  {
+    "business_description": "Neighborhood deli offering artisan sandwiches, soups, and catering.",
+    "domain_names": [
+      "mapleandrye.com",
+      "cornerdeli.co",
+      "artisanstack.shop"
+    ]
+  },
+  {
+    "business_description": "API-first insurance platform for gig workers with on-demand coverage.",
+    "domain_names": [
+      "gigcover.io",
+      "insureapi.com",
+      "ondemandrisk.co"
+    ]
+  },
+  {
+    "business_description": "B2B marketplace for lab equipment with refurbished options and warranties.",
+    "domain_names": [
+      "labexchange.market",
+      "refurbmicros.com",
+      "labgearhub.co"
+    ]
+  },
+  {
+    "business_description": "A micro-SaaS tool that turns spreadsheets into shareable web apps.",
+    "domain_names": [
+      "sheet2app.io",
+      "tabularapps.com",
+      "gridpublish.dev"
+    ]
+  },
+  {
+    "business_description": "Specialty florist focusing on wildflower arrangements and event styling.",
+    "domain_names": [
+      "wildbloomflorals.com",
+      "meadowarrange.co",
+      "petalandpine.studio"
+    ]
+  },
+  {
+    "business_description": "Remote patient monitoring for chronic conditions with connected devices.",
+    "domain_names": [
+      "vitalsync.health",
+      "remotemonitor.io",
+      "careconnect.app"
+    ]
+  },
+  {
+    "business_description": "A secondhand bookstore with a trade-in program and reading room.",
+    "domain_names": [
+      "booknooktrade.com",
+      "secondchapter.co",
+      "reuseandread.shop"
+    ]
+  },
+  {
+    "business_description": "Cloud POS for food trucks with offline mode and tip optimization.",
+    "domain_names": [
+      "truckpos.io",
+      "tapandtip.app",
+      "streetserve.cloud"
+    ]
+  },
+  {
+    "business_description": "Sustainable surfboard shaper using plant-based resins and bamboo cores.",
+    "domain_names": [
+      "bamboowaveboards.com",
+      "greensurf.co",
+      "plantresinshapes.com"
+    ]
+  },
+  {
+    "business_description": "HR consultancy helping startups define values, pay bands, and policies.",
+    "domain_names": [
+      "culturecrafthr.com",
+      "earlypeople.co",
+      "valuestack.consulting"
+    ]
+  },
+  {
+    "business_description": "A food rescue nonprofit connecting restaurants’ surplus to shelters.",
+    "domain_names": [
+      "plateforward.org",
+      "surplus2serve.org",
+      "mealrescue.network"
+    ]
+  },
+  {
+    "business_description": "Garden design service specializing in pollinator-friendly suburban landscapes.",
+    "domain_names": [
+      "pollinatorplots.com",
+      "suburbbloom.co",
+      "beegarden.design"
+    ]
+  },
+  {
+    "business_description": "Student housing platform offering verified listings and roommate matching.",
+    "domain_names": [
+      "campusnest.co",
+      "studentstay.app",
+      "dormmatch.com"
+    ]
+  },
+  {
+    "business_description": "Microbrew kombucha brand with seasonal flavors and refill growlers.",
+    "domain_names": [
+      "boochandbarrel.com",
+      "fermentflow.co",
+      "kombuchakeg.shop"
+    ]
+  },
+  {
+    "business_description": "Local art framers with museum-grade materials and custom sizing.",
+    "domain_names": [
+      "frameandgrain.com",
+      "galleryedge.co",
+      "museummount.studio"
+    ]
+  },
+  {
+    "business_description": "A boutique cycling apparel brand focusing on sustainable materials.",
+    "domain_names": [
+      "pedalweave.com",
+      "cyclelinen.co",
+      "greenspinwear.shop"
+    ]
+  },
+  {
+    "business_description": "AI assistant for customer support that drafts replies and summarizes tickets.",
+    "domain_names": [
+      "helpscribe.ai",
+      "replywise.io",
+      "ticketbrief.app"
+    ]
+  },
+  {
+    "business_description": "A car-sharing cooperative offering EVs for hourly rentals in downtown.",
+    "domain_names": [
+      "sharevolt.co",
+      "drivecooperative.org",
+      "cityevcar.com"
+    ]
+  },
+  {
+    "business_description": "Cloud database backup and restore tool with zero-knowledge encryption.",
+    "domain_names": [
+      "vaultdb.io",
+      "backupsafe.cloud",
+      "restorelock.dev"
+    ]
+  },
+  {
+    "business_description": "Plant-based cheese company crafting meltable, nut-based varieties.",
+    "domain_names": [
+      "meltandmoss.com",
+      "plantfromage.co",
+      "nutchurn.shop"
+    ]
+  },
+  {
+    "business_description": "Ethical jewelry brand using lab-grown stones and recycled metals.",
+    "domain_names": [
+      "lablustre.com",
+      "kindcarat.co",
+      "recyclejewel.shop"
+    ]
+  },
+  {
+    "business_description": "A city guide app with curated lists of local independent businesses.",
+    "domain_names": [
+      "localscout.app",
+      "cityindie.co",
+      "guidegrid.io"
+    ]
+  },
+  {
+    "business_description": "Consultancy helping nonprofits implement Salesforce and data strategy.",
+    "domain_names": [
+      "impactcrm.org",
+      "datamission.co",
+      "nonprofitstack.com"
+    ]
+  },
+  {
+    "business_description": "Outdoor gear rental platform for camping, backpacking, and climbing.",
+    "domain_names": [
+      "gearloop.com",
+      "rentatrail.co",
+      "campkitshare.app"
+    ]
+  },
+  {
+    "business_description": "A home staging company enhancing listings with modern, minimalist decor.",
+    "domain_names": [
+      "stagedandlisted.com",
+      "minimalmoves.co",
+      "showcasenest.studio"
+    ]
+  },
+  {
+    "business_description": "Small-batch hot sauce brand featuring locally grown peppers.",
+    "domain_names": [
+      "emberpepper.com",
+      "localheat.co",
+      "sauceseed.shop"
+    ]
+  },
+  {
+    "business_description": "A life coaching practice helping founders avoid burnout and find clarity.",
+    "domain_names": [
+      "clarityfounder.com",
+      "mindfulscale.co",
+      "burnoutbreakers.coach"
+    ]
+  },
+  {
+    "business_description": "Home organization service specializing in closets, kitchens, and garages.",
+    "domain_names": [
+      "neatnook.co",
+      "tidybay.com",
+      "cluttercraft.io"
+    ]
+  },
+  {
+    "business_description": "Mobile app for neighborhood watch with incident reporting and alerts.",
+    "domain_names": [
+      "blockbeacon.app",
+      "neighbornote.io",
+      "safestreet.co"
+    ]
+  },
+  {
+    "business_description": "AI-driven CRM that prioritizes deals and automates follow-ups.",
+    "domain_names": [
+      "dealgenie.ai",
+      "followflow.io",
+      "pipestack.app"
+    ]
+  },
+  {
+    "business_description": "Local honey cooperative selling raw honey, beeswax, and workshops.",
+    "domain_names": [
+      "cityhivehoney.com",
+      "rawandwax.co",
+      "beecoop.org"
+    ]
+  },
+  {
+    "business_description": "A used camera store offering repairs, trades, and film development.",
+    "domain_names": [
+      "shutterswap.com",
+      "cameracase.co",
+      "filmlab.store"
+    ]
+  },
+  {
+    "business_description": "Affordable online therapy matching clients with licensed counselors.",
+    "domain_names": [
+      "counselconnect.health",
+      "therapyeasy.co",
+      "mindmatch.app"
+    ]
+  },
+  {
+    "business_description": "A small-town diner serving breakfast all day and homemade pies.",
+    "domain_names": [
+      "mapleforkdiner.com",
+      "allmorning.co",
+      "pieandplate.cafe"
+    ]
+  },
+  {
+    "business_description": "Analytics for email newsletters: cohort retention, deliverability, and monetization.",
+    "domain_names": [
+      "inboxintel.io",
+      "newsletterlytics.com",
+      "sendstack.app"
+    ]
+  },
+  {
+    "business_description": "Boutique PR agency for tech startups and product launches.",
+    "domain_names": [
+      "launchpress.agency",
+      "techflarepr.com",
+      "founderstory.co"
+    ]
+  },
+  {
+    "business_description": "A vintage vinyl record store with listening stations and trade-ins.",
+    "domain_names": [
+      "needleandgroove.com",
+      "vinylnook.co",
+      "turntabletrade.shop"
+    ]
+  },
+  {
+    "business_description": "Homegrown mushroom kits for gourmets and growers with tutorials.",
+    "domain_names": [
+      "mycokit.com",
+      "growgourmet.co",
+      "mushroomstart.shop"
+    ]
+  },
+  {
+    "business_description": "Peer mentorship app for first-generation college students.",
+    "domain_names": [
+      "firstgenpeer.app",
+      "campuscompass.io",
+      "mentorfirst.co"
+    ]
+  },
+  {
+    "business_description": "A local CSA bakery delivering weekly bread loaves and pastries to subscribers.",
+    "domain_names": [
+      "breadshare.co",
+      "weeklycrumb.com",
+      "ovenclub.shop"
+    ]
+  },
+  {
+    "business_description": "SaaS for nonprofit grant tracking and impact reporting.",
+    "domain_names": [
+      "grantledger.org",
+      "impacttrace.io",
+      "fundflow.cloud"
+    ]
+  },
+  {
+    "business_description": "Digital asset management for creative teams with AI tagging.",
+    "domain_names": [
+      "assetatlas.io",
+      "creativestack.cloud",
+      "tagwise.ai"
+    ]
+  },
+  {
+    "business_description": "Mobile tutoring for K-5 reading and math with gamified lessons.",
+    "domain_names": [
+      "kidlearn.app",
+      "tutortrail.co",
+      "mathandme.io"
+    ]
+  },
+  {
+    "business_description": "A boutique ceramics studio offering classes and custom dinnerware.",
+    "domain_names": [
+      "clayandkiln.studio",
+      "dinnerwaremade.com",
+      "wheelroom.co"
+    ]
+  },
+  {
+    "business_description": "Virtual interior decorating with 3D room renders and shopping lists.",
+    "domain_names": [
+      "roomrender.io",
+      "decoswift.com",
+      "planandplace.app"
+    ]
+  },
+  {
+    "business_description": "Local cider house with orchard tours and seasonal tastings.",
+    "domain_names": [
+      "orchardpresscider.com",
+      "seasoncider.co",
+      "coreandcraft.pub"
+    ]
+  },
+  {
+    "business_description": "AI inventory forecasting for DTC brands with SKU-level predictions.",
+    "domain_names": [
+      "stockseer.ai",
+      "predictsku.io",
+      "inventorywise.app"
+    ]
+  },
+  {
+    "business_description": "Tailored nutrition plans delivered as ready-to-eat meals nationwide.",
+    "domain_names": [
+      "mealmapnutrition.com",
+      "tailoreat.co",
+      "macroplate.app"
+    ]
+  },
+  {
+    "business_description": "Local makerspace with laser cutters, 3D printers, and electronics benches.",
+    "domain_names": [
+      "makerfoundry.org",
+      "buildbench.co",
+      "laserandlathe.space"
+    ]
+  },
+  {
+    "business_description": "Small-batch soap company making cold-process bars with natural scents.",
+    "domain_names": [
+      "coldcraftsoap.com",
+      "naturalsuds.co",
+      "barandbotanical.shop"
+    ]
+  },
+  {
+    "business_description": "Marketplace for artisan bread delivered fresh from local bakeries.",
+    "domain_names": [
+      "loaflane.com",
+      "dailycrumb.co",
+      "breadbasket.market"
+    ]
+  },
+  {
+    "business_description": "Mobile app for neighborhood carpooling and school pickups.",
+    "domain_names": [
+      "ridebuddy.app",
+      "schoolpool.co",
+      "carshareblock.com"
+    ]
+  },
+  {
+    "business_description": "Home coffee subscription focusing on freshly roasted decaf options.",
+    "domain_names": [
+      "decafdaily.com",
+      "slowbrewbox.co",
+      "calmcup.shop"
+    ]
+  },
+  {
+    "business_description": "Personal stylist service offering capsule wardrobes and online fittings.",
+    "domain_names": [
+      "wardrobecapsule.co",
+      "stylematch.app",
+      "fitandform.studio"
+    ]
+  },
+  {
+    "business_description": "A neighborhood greenhouse selling seedlings, soil, and plant care kits.",
+    "domain_names": [
+      "sprouthousegreen.com",
+      "plantstart.co",
+      "seedlingkits.shop"
+    ]
+  },
+  {
+    "business_description": "Solar-powered cold chain logistics for vaccines in remote areas.",
+    "domain_names": [
+      "sunchill.health",
+      "solarcoldchain.org",
+      "vaxcooler.io"
+    ]
+  },
+  {
+    "business_description": "Digital studio producing explainer videos and motion graphics for tech companies.",
+    "domain_names": [
+      "motionmint.studio",
+      "explainwise.co",
+      "pixelpulse.media"
+    ]
+  },
+  {
+    "business_description": "Women-in-tech community hosting meetups, mentorship, and scholarships.",
+    "domain_names": [
+      "shecodescollective.org",
+      "techhermeet.co",
+      "mentorher.io"
+    ]
+  },
+  {
+    "business_description": "Local knitting shop with classes, yarns, and a cozy lounge.",
+    "domain_names": [
+      "purlandpearl.com",
+      "cozyknit.co",
+      "yarnnest.shop"
+    ]
+  },
+  {
+    "business_description": "Smart thermostat company focusing on small apartments and renters.",
+    "domain_names": [
+      "rentertemp.com",
+      "smartsuiteheat.io",
+      "microclimate.co"
+    ]
+  },
+  {
+    "business_description": "A gelato cart catering weddings, street fairs, and corporate events.",
+    "domain_names": [
+      "bellagelatocart.com",
+      "sweetstreetgelato.co",
+      "gelatogo.events"
+    ]
+  },
+  {
+    "business_description": "Remote team retreat planning with wellness activities and strategy workshops.",
+    "domain_names": [
+      "offsiteoasis.com",
+      "teamretreat.co",
+      "workwellgetaway.com"
+    ]
+  },
+  {
+    "business_description": "iOS and Android app development studio for startups and SMBs.",
+    "domain_names": [
+      "swiftanddroid.dev",
+      "appcraft.studio",
+      "mobilenest.io"
+    ]
+  },
+  {
+    "business_description": "Ethical pet treats made with upcycled ingredients and compostable packaging.",
+    "domain_names": [
+      "scraptreats.pet",
+      "upcycledpaws.co",
+      "greenchew.shop"
+    ]
+  },
+  {
+    "business_description": "Vintage furniture restoration and resale with mid-century focus.",
+    "domain_names": [
+      "restoreandretro.com",
+      "midmodmake.co",
+      "timbertime.shop"
+    ]
+  },
+  {
+    "business_description": "Online personal training platform with form analysis and tailored programs.",
+    "domain_names": [
+      "formfit.app",
+      "trainwise.io",
+      "coachstream.co"
+    ]
+  },
+  {
+    "business_description": "Boutique music school teaching jazz, theory, and improvisation.",
+    "domain_names": [
+      "bluebirdmusic.school",
+      "jazzandtheory.co",
+      "improvlab.studio"
+    ]
+  },
+  {
+    "business_description": "Green roofing company installing living roofs and rainwater systems.",
+    "domain_names": [
+      "roofandroot.green",
+      "livingroofco.com",
+      "raincatcher.build"
+    ]
+  },
+  {
+    "business_description": "Ecommerce for eco-friendly pet supplies and biodegradable toys.",
+    "domain_names": [
+      "ecopawshop.com",
+      "biopetplay.co",
+      "greenpetgoods.store"
+    ]
+  },
+  {
+    "business_description": "Tax advisory service for creators and solo entrepreneurs.",
+    "domain_names": [
+      "creatortax.co",
+      "sololedger.com",
+      "indiefinance.pro"
+    ]
+  },
+  {
+    "business_description": "Small-batch pickle company with creative brines and seasonal veggies.",
+    "domain_names": [
+      "brineandtime.com",
+      "picklepatch.co",
+      "crunchcraft.shop"
+    ]
+  },
+  {
+    "business_description": "Home energy audits with thermal imaging and retrofit recommendations.",
+    "domain_names": [
+      "thermalnest.com",
+      "homeefficiency.co",
+      "auditandupgrade.energy"
+    ]
+  },
+  {
+    "business_description": "Mobile app for plant identification and care reminders.",
+    "domain_names": [
+      "plantping.app",
+      "leaflookup.io",
+      "greenremind.co"
+    ]
+  },
+  {
+    "business_description": "Career platform for blue-collar workers with training and job placement.",
+    "domain_names": [
+      "skillshift.jobs",
+      "tradepath.co",
+      "workhands.org"
+    ]
+  },
+  {
+    "business_description": "SaaS for price testing on ecommerce product pages with real-time insights.",
+    "domain_names": [
+      "pricepilot.io",
+      "aovboost.app",
+      "tagandtest.com"
+    ]
+  },
+  {
+    "business_description": "Microbrewery specializing in barrel-aged stouts and sours.",
+    "domain_names": [
+      "oakandemberbrew.com",
+      "barrelbatch.co",
+      "sourandstout.pub"
+    ]
+  },
+  {
+    "business_description": "Nonprofit providing coding classes to incarcerated individuals.",
+    "domain_names": [
+      "codeinside.org",
+      "secondchance.dev",
+      "reentrytech.org"
+    ]
+  },
+  {
+    "business_description": "A small-town florist delivering bouquets and offering wedding packages.",
+    "domain_names": [
+      "maplebloomflorist.com",
+      "townandpetal.co",
+      "weddingwildflowers.com"
+    ]
+  },
+  {
+    "business_description": "Water testing kits and services for homeowners with quick lab results.",
+    "domain_names": [
+      "clearwellwater.com",
+      "testtap.co",
+      "aquascan.lab"
+    ]
+  },
+  {
+    "business_description": "AI copywriting tool for product descriptions and ad headlines.",
+    "domain_names": [
+      "admint.ai",
+      "copycraft.io",
+      "productwords.app"
+    ]
+  },
+  {
+    "business_description": "Small accounting firm helping restaurants with payroll and taxes.",
+    "domain_names": [
+      "forkandfigures.com",
+      "restacct.co",
+      "kitchencpa.pro"
+    ]
+  },
+  {
+    "business_description": "Creative writing workshops and retreats by published authors.",
+    "domain_names": [
+      "penandpath.com",
+      "writeretreat.co",
+      "craftandchapter.studio"
+    ]
+  },
+  {
+    "business_description": "A platform for nonprofits to host peer-to-peer fundraising challenges.",
+    "domain_names": [
+      "givecircles.org",
+      "peerraise.co",
+      "donorrelay.com"
+    ]
+  },
+  {
+    "business_description": "Subscription vitamin packs tailored by blood test results.",
+    "domain_names": [
+      "vitablood.com",
+      "labtailored.health",
+      "packandpill.co"
+    ]
+  },
+  {
+    "business_description": "Neighborhood ice cream shop with dairy-free and seasonal flavors.",
+    "domain_names": [
+      "scoopsandseasons.com",
+      "neighborhoodice.co",
+      "frozencoast.cafe"
+    ]
+  },
+  {
+    "business_description": "API for currency exchange rates with historical and real-time data.",
+    "domain_names": [
+      "forexgrid.io",
+      "exchangerapi.com",
+      "fxdata.dev"
+    ]
+  },
+  {
+    "business_description": "Outdoor adventure guides offering rock climbing and backcountry trips.",
+    "domain_names": [
+      "peakandpath.com",
+      "gooutguide.co",
+      "climbwild.tours"
+    ]
+  },
+  {
+    "business_description": "Nail salon with non-toxic polishes and green-certified practices.",
+    "domain_names": [
+      "greentipsalon.com",
+      "polishpure.co",
+      "nontoxicnails.studio"
+    ]
+  },
+  {
+    "business_description": "Startup legal forms and templates with guided workflows.",
+    "domain_names": [
+      "launchlegal.io",
+      "founderforms.law",
+      "startdocs.app"
+    ]
+  },
+  {
+    "business_description": "Elder care coordination platform connecting families with caregivers.",
+    "domain_names": [
+      "carecircle.health",
+      "elderlink.co",
+      "familycarehub.app"
+    ]
+  },
+  {
+    "business_description": "City walking tour company focusing on street art and hidden histories.",
+    "domain_names": [
+      "muralandmile.com",
+      "streetsage.co",
+      "hiddenlane.tours"
+    ]
+  },
+  {
+    "business_description": "Freelancer marketplace for local home repairs and handywork.",
+    "domain_names": [
+      "fixerfield.com",
+      "homehandy.co",
+      "hireahand.app"
+    ]
+  },
+  {
+    "business_description": "3PL warehouse offering same-day fulfillment for DTC brands.",
+    "domain_names": [
+      "fulfillfast3pl.com",
+      "dtcship.co",
+      "samedaypack.io"
+    ]
+  },
+  {
+    "business_description": "Custom cake studio creating sculpted designs for special occasions.",
+    "domain_names": [
+      "crumbandcraftcakes.com",
+      "cakerender.co",
+      "sugarstudio.bakery"
+    ]
+  },
+  {
+    "business_description": "SaaS for managing influencer partnerships, tracking links, and ROI.",
+    "domain_names": [
+      "influencelytics.io",
+      "partnerpulse.app",
+      "trackaffect.com"
+    ]
+  },
+  {
+    "business_description": "Local juice bar serving cold-pressed juices, bowls, and wellness shots.",
+    "domain_names": [
+      "pressandpourbar.com",
+      "juicejunction.co",
+      "coldpresslocal.cafe"
+    ]
+  },
+  {
+    "business_description": "A craft soda company with botanical flavors and low sugar.",
+    "domain_names": [
+      "botanibubbles.com",
+      "rootsoda.co",
+      "craftfizz.shop"
+    ]
+  },
+  {
+    "business_description": "Private music lessons marketplace for piano, guitar, and voice.",
+    "domain_names": [
+      "lessonslane.com",
+      "playandpractice.co",
+      "tunetutor.app"
+    ]
+  },
+  {
+    "business_description": "Local tutoring service for English learners focusing on conversation.",
+    "domain_names": [
+      "speakstreet.co",
+      "englishneighbor.com",
+      "chatschool.app"
+    ]
+  },
+  {
+    "business_description": "A publishing imprint for indie authors with editing and cover design.",
+    "domain_names": [
+      "inkandimprint.com",
+      "indiepress.studio",
+      "authorforge.co"
+    ]
+  },
+  {
+    "business_description": "Children’s STEM camp with robotics, coding, and engineering challenges.",
+    "domain_names": [
+      "stemcampus.org",
+      "robotrangers.co",
+      "buildandcode.camp"
+    ]
+  },
+  {
+    "business_description": "AI-powered spreadsheet plugin for forecasting and scenario planning.",
+    "domain_names": [
+      "scenario.ai",
+      "sheetseer.io",
+      "planpilot.app"
+    ]
+  },
+  {
+    "business_description": "Local print shop offering risograph posters and zine printing.",
+    "domain_names": [
+      "risoroomprint.com",
+      "zinepress.co",
+      "posterhatch.studio"
+    ]
+  },
+  {
+    "business_description": "A package-free household essentials store with refill delivery.",
+    "domain_names": [
+      "refillrouteshop.com",
+      "packagefreehome.co",
+      "zerobox.delivery"
+    ]
+  },
+  {
+    "business_description": "Email warmup and deliverability monitoring for sales teams.",
+    "domain_names": [
+      "warmwave.io",
+      "inboxready.app",
+      "sendhealth.dev"
+    ]
+  },
+  {
+    "business_description": "Kombucha taproom with classes on fermentation and home brewing.",
+    "domain_names": [
+      "fermentflow.bar",
+      "boochclass.co",
+      "tapandculture.pub"
+    ]
+  },
+  {
+    "business_description": "Art therapy practice supporting teens with anxiety and self-expression.",
+    "domain_names": [
+      "canvasofcalm.health",
+      "artmindtherapy.co",
+      "teencanvas.care"
+    ]
+  },
+  {
+    "business_description": "Neighborhood butcher offering pasture-raised meats and custom cuts.",
+    "domain_names": [
+      "pastureandcleaver.com",
+      "butchernook.co",
+      "honestmeat.shop"
+    ]
+  },
+  {
+    "business_description": "Plant-based meal prep delivered twice weekly with macro tracking.",
+    "domain_names": [
+      "vegmacroprep.com",
+      "greensready.co",
+      "plantplate.app"
+    ]
+  },
+  {
+    "business_description": "SaaS for managing club memberships, events, and dues.",
+    "domain_names": [
+      "clubstack.io",
+      "membermint.app",
+      "duesdash.com"
+    ]
+  },
+  {
+    "business_description": "Home tutoring service for special education with licensed teachers.",
+    "domain_names": [
+      "kindpathlearning.com",
+      "spedhome.co",
+      "teachcare.app"
+    ]
+  },
+  {
+    "business_description": "Urban pet photography specializing in candid outdoor portraits.",
+    "domain_names": [
+      "citypawportraits.com",
+      "streetpetphoto.co",
+      "tailclick.studio"
+    ]
+  },
+  {
+    "business_description": "Local film festival showcasing independent shorts and workshops.",
+    "domain_names": [
+      "shortsfilmfest.com",
+      "indieframefest.co",
+      "reelcraft.org"
+    ]
+  },
+  {
+    "business_description": "Car subscription service with flexible month-to-month plans.",
+    "domain_names": [
+      "driveloop.co",
+      "autosubscribe.com",
+      "flexicar.app"
+    ]
+  },
+  {
+    "business_description": "An online thrift marketplace curated by stylists.",
+    "domain_names": [
+      "thriftcurator.com",
+      "styledsecond.co",
+      "relovemarket.shop"
+    ]
+  },
+  {
+    "business_description": "Community-supported bakery that mills its own flour and bakes daily.",
+    "domain_names": [
+      "grainandgreet.com",
+      "millandbake.co",
+      "communitycrumbs.bakery"
+    ]
+  },
+  {
+    "business_description": "Independent toy store focused on Montessori and STEM learning.",
+    "domain_names": [
+      "mindandtoy.com",
+      "montessorimarket.co",
+      "playsmartkids.shop"
+    ]
+  },
+  {
+    "business_description": "Vegan cheese and charcuterie catering for events and offices.",
+    "domain_names": [
+      "plantplatters.com",
+      "vegboard.co",
+      "charcuteriegreen.catering"
+    ]
+  },
+  {
+    "business_description": "An artisan soap refill bar promoting zero-waste personal care.",
+    "domain_names": [
+      "soaprefillbar.com",
+      "zerofoam.co",
+      "cleanloop.shop"
+    ]
+  },
+  {
+    "business_description": "City-based ceramics collective offering memberships and kiln access.",
+    "domain_names": [
+      "kilncollective.org",
+      "clayco-op.co",
+      "cityceramics.studio"
+    ]
+  },
+  {
+    "business_description": "Children’s bookstore with storytime events and educator discounts.",
+    "domain_names": [
+      "littleleafbooks.com",
+      "storycorner.co",
+      "kidreaders.shop"
+    ]
+  },
+  {
+    "business_description": "Local bike touring company hosting weekend trips and gear rentals.",
+    "domain_names": [
+      "pedalweekend.com",
+      "citytoursbike.co",
+      "saddleandstay.tours"
+    ]
+  },
+  {
+    "business_description": "A water-saving garden irrigation startup for drought-prone cities.",
+    "domain_names": [
+      "aquadrought.io",
+      "waterwisegarden.com",
+      "dripsmart.co"
+    ]
+  },
+  {
+    "business_description": "Gourmet donut shop with seasonal fillings and espresso bar.",
+    "domain_names": [
+      "glazecraftdonuts.com",
+      "seasonaldonut.co",
+      "espressosprinkle.cafe"
+    ]
+  },
+  {
+    "business_description": "AI checkout optimization for ecommerce with smart upsells and bundles.",
+    "domain_names": [
+      "cartbrain.ai",
+      "bundleboost.io",
+      "smartcheckout.app"
+    ]
+  },
+  {
+    "business_description": "A board game cafe with a library of games and local beers.",
+    "domain_names": [
+      "meepleandmug.com",
+      "boardandbrew.co",
+      "gamecup.cafe"
+    ]
+  },
+  {
+    "business_description": "SaaS for construction bid management and subcontractor compliance.",
+    "domain_names": [
+      "bidbeam.io",
+      "subtrack.co",
+      "constructcompliance.com"
+    ]
+  },
+  {
+    "business_description": "3D asset marketplace for indie developers and animators.",
+    "domain_names": [
+      "polyparcel.com",
+      "meshmarket.io",
+      "assetatelier.studio"
+    ]
+  },
+  {
+    "business_description": "Event florist specializing in large installations and corporate galas.",
+    "domain_names": [
+      "grandfloraevents.com",
+      "installationsandivy.co",
+      "galaandgarden.studio"
+    ]
+  },
+  {
+    "business_description": "Solar-powered phone charging kiosks for campuses and parks.",
+    "domain_names": [
+      "sunchargekiosk.com",
+      "parksolar.co",
+      "campuscharge.io"
+    ]
+  },
+  {
+    "business_description": "Microlearning platform delivering five-minute lessons for busy teams.",
+    "domain_names": [
+      "bitelearn.app",
+      "microclass.io",
+      "snackstudy.com"
+    ]
+  },
+  {
+    "business_description": "Local spice shop with blends from around the world and tasting events.",
+    "domain_names": [
+      "spiceatlas.com",
+      "blendbar.co",
+      "seasonhouse.shop"
+    ]
+  },
+  {
+    "business_description": "SEO consultancy for local trades: plumbers, electricians, and roofers.",
+    "domain_names": [
+      "localranktrade.com",
+      "toolsandtraffic.co",
+      "tradesseo.pro"
+    ]
+  },
+  {
+    "business_description": "A coworking space for creatives with studios, galleries, and classes.",
+    "domain_names": [
+      "artworkbench.com",
+      "creativecommons.space",
+      "studioloft.co"
+    ]
+  },
+  {
+    "business_description": "Zero-commission ticketing for small venues and independent artists.",
+    "domain_names": [
+      "ticketriver.co",
+      "venuesimple.com",
+      "artistadmit.io"
+    ]
+  },
+  {
+    "business_description": "Fermentation lab selling sourdough starters and hosting workshops.",
+    "domain_names": [
+      "starterlab.co",
+      "fermentfoundry.com",
+      "wildyeast.work"
+    ]
+  },
+  {
+    "business_description": "Local bike messenger service specializing in legal and architectural firms.",
+    "domain_names": [
+      "couriercadence.com",
+      "messengercity.co",
+      "docdrop.delivery"
+    ]
+  },
+  {
+    "business_description": "Hobby electronics shop with microcontrollers, sensors, and soldering kits.",
+    "domain_names": [
+      "bitandboard.com",
+      "makerwire.co",
+      "solderstart.shop"
+    ]
+  },
+  {
+    "business_description": "Tiny home builder specializing in off-grid and minimalist designs.",
+    "domain_names": [
+      "tinynestbuild.com",
+      "offgridtiny.co",
+      "minimaldwell.build"
+    ]
+  },
+  {
+    "business_description": "A fair-trade rug company working with artisan cooperatives.",
+    "domain_names": [
+      "loomandland.com",
+      "fairrugs.co",
+      "artisanweave.shop"
+    ]
+  },
+  {
+    "business_description": "English language school focused on business communication and writing.",
+    "domain_names": [
+      "englishbrief.school",
+      "bizlingo.co",
+      "writeandwork.academy"
+    ]
+  },
+  {
+    "business_description": "Hyperlocal news site covering neighborhood politics, schools, and culture.",
+    "domain_names": [
+      "maplewoodtimes.com",
+      "neighbornote.news",
+      "blockpress.co"
+    ]
+  },
+  {
+    "business_description": "Mobile app for household chore management and allowances for kids.",
+    "domain_names": [
+      "chorechart.app",
+      "homeallowance.co",
+      "kidduty.io"
+    ]
+  },
+  {
+    "business_description": "Ecommerce for eco-friendly school supplies and reusable lunch gear.",
+    "domain_names": [
+      "greenbackpack.co",
+      "ecoclass.shop",
+      "reusableschool.com"
+    ]
+  },
+  {
+    "business_description": "Startup building biodegradable phone cases with plant-based materials.",
+    "domain_names": [
+      "leafcase.com",
+      "biophone.co",
+      "plantaprotec.shop"
+    ]
+  },
+  {
+    "business_description": "Local Mending Bar offering clothing repairs, patches, and alterations.",
+    "domain_names": [
+      "mendandmake.co",
+      "stitchbar.shop",
+      "repairloom.com"
+    ]
+  },
+  {
+    "business_description": "A heritage grain pasta company with bronze-cut textures.",
+    "domain_names": [
+      "heritagepasta.com",
+      "bronzeandgrain.co",
+      "oldfieldnoodles.shop"
+    ]
+  },
+  {
+    "business_description": "Community garden tool library lending mowers, hoes, and seeders.",
+    "domain_names": [
+      "toollend.org",
+      "gardenlibrary.co",
+      "borrowandgrow.community"
+    ]
+  },
+  {
+    "business_description": "Mobile IV therapy service for hydration and wellness boosters.",
+    "domain_names": [
+      "ivinyou.health",
+      "dripmobile.co",
+      "hydraboost.app"
+    ]
+  },
+  {
+    "business_description": "Cloud-native image CDN with real-time transformations and caching.",
+    "domain_names": [
+      "pixelpipe.io",
+      "imgshift.cloud",
+      "rendercdn.dev"
+    ]
+  },
+  {
+    "business_description": "Local ceramics repair and kintsugi restoration studio.",
+    "domain_names": [
+      "kintsugicraft.com",
+      "ceramicrestore.co",
+      "goldjoin.studio"
+    ]
+  },
+  {
+    "business_description": "Artisan pretzel bakery with unique dips and local beer pairings.",
+    "domain_names": [
+      "twistandgrain.com",
+      "pretzellane.co",
+      "dipandtwist.shop"
+    ]
+  },
+  {
+    "business_description": "Mobile tutoring for SAT/ACT with diagnostic testing and score plans.",
+    "domain_names": [
+      "scorestride.com",
+      "testcoach.co",
+      "prepplan.app"
+    ]
+  },
+  {
+    "business_description": "Telepsychiatry clinic offering medication management and therapy.",
+    "domain_names": [
+      "mindmedic.health",
+      "telepsyche.co",
+      "carecompass.clinic"
+    ]
+  },
+  {
+    "business_description": "A city dog park with memberships, training, and a cafe.",
+    "domain_names": [
+      "urbanhoundspark.com",
+      "dogrunclub.co",
+      "barkandbrew.cafe"
+    ]
+  },
+  {
+    "business_description": "Local indoor climbing gym with youth programs and bouldering leagues.",
+    "domain_names": [
+      "chalkandclimb.com",
+      "boulderblock.co",
+      "youthcrux.club"
+    ]
+  },
+  {
+    "business_description": "B2B SaaS for warranty claims automation and customer portals.",
+    "domain_names": [
+      "warrantylane.io",
+      "claimcraft.app",
+      "aftercarecloud.com"
+    ]
+  },
+  {
+    "business_description": "Neighborhood farmers’ cooperative offering shared equipment and seed buying.",
+    "domain_names": [
+      "farmersunion.org",
+      "seedandshare.co",
+      "co-opfields.com"
+    ]
+  },
+  {
+    "business_description": "Reusable diaper service with weekly pickups and eco detergents.",
+    "domain_names": [
+      "washandwearbaby.com",
+      "diaperloop.co",
+      "greenbottoms.care"
+    ]
+  },
+  {
+    "business_description": "Local film processing lab offering 35mm, 120, and scans.",
+    "domain_names": [
+      "grainlabphoto.com",
+      "filmdevelop.co",
+      "scanandgrain.studio"
+    ]
+  },
+  {
+    "business_description": "City-based meditation studio offering drop-in sessions and courses.",
+    "domain_names": [
+      "citycalmstudio.com",
+      "dropinzen.co",
+      "mindminute.club"
+    ]
+  },
+  {
+    "business_description": "Mobile hair and makeup team for weddings and photo shoots.",
+    "domain_names": [
+      "onsetbeauty.co",
+      "bridestylemobile.com",
+      "glamtoyou.studio"
+    ]
+  },
+  {
+    "business_description": "Platform for neighborhood tool-sharing and DIY project help.",
+    "domain_names": [
+      "lendandwrench.com",
+      "toolshareblock.co",
+      "projectneighbor.app"
+    ]
+  },
+  {
+    "business_description": "City-based home bakery specializing in vegan cupcakes and cookies.",
+    "domain_names": [
+      "vegancupcity.com",
+      "sweetgreensbakery.co",
+      "plantbake.shop"
+    ]
+  },
+  {
+    "business_description": "AI agent for sales prospecting with lead scoring and auto-emailing.",
+    "domain_names": [
+      "prospectpilot.ai",
+      "leadauto.io",
+      "salesagent.app"
+    ]
+  },
+  {
+    "business_description": "Global startup directory and investor matching platform.",
+    "domain_names": [
+      "foundrylist.com",
+      "startmatch.co",
+      "investorlink.io"
+    ]
+  },
+  {
+    "business_description": "Home-brewed kombucha subscription delivering rotating flavors.",
+    "domain_names": [
+      "brewandbooch.com",
+      "kombuchaclub.co",
+      "fermentbox.shop"
+    ]
+  },
+  {
+    "business_description": "A workplace feedback app enabling anonymous pulse surveys.",
+    "domain_names": [
+      "pulsehear.app",
+      "teamvoice.io",
+      "workfeedback.co"
+    ]
+  },
+  {
+    "business_description": "Upskilling platform for hospitality workers with micro-credentials.",
+    "domain_names": [
+      "servelearn.io",
+      "hospiskills.co",
+      "microbadge.app"
+    ]
+  },
+  {
+    "business_description": "Local dog grooming van with eco-friendly shampoos and quick trims.",
+    "domain_names": [
+      "vanitypaws.com",
+      "greengroom.co",
+      "pawpolish.pet"
+    ]
+  },
+  {
+    "business_description": "3D house scanning for real estate listings and virtual tours.",
+    "domain_names": [
+      "scanhouse3d.com",
+      "tourcube.io",
+      "virtulist.co"
+    ]
+  },
+  {
+    "business_description": "Kids coding club with after-school programs and hack weekends.",
+    "domain_names": [
+      "kidscodeclub.org",
+      "hackweekend.co",
+      "aftercode.app"
+    ]
+  },
+  {
+    "business_description": "Local cafe roasting its own beans and offering barista classes.",
+    "domain_names": [
+      "roastandrootcafe.com",
+      "baristaschool.co",
+      "cityroast.coffee"
+    ]
+  },
+  {
+    "business_description": "Hand-lettering studio making custom signage and wedding invitations.",
+    "domain_names": [
+      "inkandivylettering.com",
+      "scriptstudio.co",
+      "paperandpen.design"
+    ]
+  },
+  {
+    "business_description": "Nonprofit offering literacy tutoring to adults and immigrants.",
+    "domain_names": [
+      "readtogether.org",
+      "literacylift.org",
+      "learnletters.org"
+    ]
+  },
+  {
+    "business_description": "Ecommerce brand selling minimalist wallets and small leather goods.",
+    "domain_names": [
+      "slimcarry.com",
+      "minimalpocket.co",
+      "leatherlite.shop"
+    ]
+  },
+  {
+    "business_description": "Cloud-native feature flagging for developers with experimentation.",
+    "domain_names": [
+      "flagflow.dev",
+      "togglehub.io",
+      "featuretest.cloud"
+    ]
+  },
+  {
+    "business_description": "Neighborhood skating rink offering lessons, rentals, and parties.",
+    "domain_names": [
+      "riverrunrink.com",
+      "cityskate.co",
+      "glideandgrin.fun"
+    ]
+  },
+  {
+    "business_description": "Online platform connecting home bakers to local customers.",
+    "domain_names": [
+      "bakeblock.com",
+      "ovenneigh.co",
+      "crumbconnect.shop"
+    ]
+  },
+  {
+    "business_description": "A craft cider brand distributing to regional grocery stores.",
+    "domain_names": [
+      "orchardlane.cider",
+      "craftcore.co",
+      "pressandpour.com"
+    ]
+  },
+  {
+    "business_description": "Adult website with explicit nude content",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Local strip club with nightly performances and private rooms",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Online store selling adult toys and explicit accessories",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Escort service providing adult companionship and intimate experiences",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Fetish content subscription platform with explicit videos",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Adult chat and cam service with explicit content",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Nude photography site with explicit galleries and videos",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Sexual wellness site offering explicit tutorials",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Adult dating platform for hookups and explicit messaging",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Pornographic video streaming service with explicit material",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Local meditation teacher offering 1:1 sessions and corporate workshops.",
+    "domain_names": [
+      "quietcoach.co",
+      "meditatewithme.app",
+      "mindpause.studio"
+    ]
+  },
+  {
+    "business_description": "Specialty tea house serving gongfu-style tastings and rare pu-erh.",
+    "domain_names": [
+      "teagongfu.com",
+      "puerhparlor.co",
+      "steepandstory.cafe"
+    ]
+  },
+  {
+    "business_description": "API security scanner for developers with CI/CD integration.",
+    "domain_names": [
+      "apishield.dev",
+      "endpointscan.io",
+      "secapi.cloud"
+    ]
+  },
+  {
+    "business_description": "SaaS for webinar hosting with interactive polls and analytics.",
+    "domain_names": [
+      "webcastwise.io",
+      "pollandpresent.com",
+      "seminarstream.app"
+    ]
+  },
+  {
+    "business_description": "Urban orchard project planting fruit trees and community care days.",
+    "domain_names": [
+      "cityorchard.org",
+      "fruitblock.co",
+      "harvestneighborhood.org"
+    ]
+  },
+  {
+    "business_description": "Pickleball club with lessons, leagues, and weekend tournaments.",
+    "domain_names": [
+      "paddleandplay.club",
+      "picklebay.co",
+      "courtandcrew.com"
+    ]
+  },
+  {
+    "business_description": "Language exchange app matching learners for voice chats and prompts.",
+    "domain_names": [
+      "lingotandem.app",
+      "talkswap.io",
+      "speakspan.co"
+    ]
+  },
+  {
+    "business_description": "Home coffee roaster selling sample flights and brewing gear.",
+    "domain_names": [
+      "flightandroast.com",
+      "homebaristakit.co",
+      "samplebean.shop"
+    ]
+  },
+  {
+    "business_description": "Custom embroidery shop for uniforms, hats, and corporate swag.",
+    "domain_names": [
+      "stitchstandard.com",
+      "embroiderpro.co",
+      "threadedbrand.shop"
+    ]
+  },
+  {
+    "business_description": "Local tutoring service helping adults pass citizenship exams.",
+    "domain_names": [
+      "civicsready.org",
+      "citizenstudy.co",
+      "path2pass.app"
+    ]
+  },
+  {
+    "business_description": "Cycling tour company offering gravel rides and scenic routes.",
+    "domain_names": [
+      "gravelandglide.com",
+      "ridevista.co",
+      "dustydrop.tours"
+    ]
+  },
+  {
+    "business_description": "Nonprofit organizing neighborhood cleanups and recycling drives.",
+    "domain_names": [
+      "cleanblock.org",
+      "streetsweepers.org",
+      "recycleday.co"
+    ]
+  },
+  {
+    "business_description": "Local pasta bar offering made-to-order bowls and house sauces.",
+    "domain_names": [
+      "pastabowlbar.com",
+      "saucestreet.co",
+      "noodleandnest.cafe"
+    ]
+  },
+  {
+    "business_description": "Small-batch jam company using surplus fruit from local farms.",
+    "domain_names": [
+      "surplusspread.com",
+      "jamandfield.co",
+      "farmjar.shop"
+    ]
+  },
+  {
+    "business_description": "Home staging rentals for realtors with flexible packages.",
+    "domain_names": [
+      "stagerentals.co",
+      "showhomekit.com",
+      "listandstage.studio"
+    ]
+  },
+  {
+    "business_description": "Coastal kayak tours with wildlife guides and sunset trips.",
+    "domain_names": [
+      "tidalpaddle.com",
+      "coastkayak.co",
+      "wildwaters.tours"
+    ]
+  },
+  {
+    "business_description": "Local chocolatier offering bean-to-bar classes and tastings.",
+    "domain_names": [
+      "barandbeanstudio.com",
+      "chococlass.co",
+      "tasteroast.shop"
+    ]
+  },
+  {
+    "business_description": "SaaS for nonprofit donor management and recurring giving.",
+    "domain_names": [
+      "donorfountain.org",
+      "givegrow.io",
+      "pledgepath.app"
+    ]
+  },
+  {
+    "business_description": "Art rental service for offices with rotating local artist collections.",
+    "domain_names": [
+      "officerentart.com",
+      "gallerycycle.co",
+      "artloop.rentals"
+    ]
+  },
+  {
+    "business_description": "Community-run tool co-op lending specialty tools and hosting classes.",
+    "domain_names": [
+      "toolshareco-op.org",
+      "borrowbench.co",
+      "fixitcollective.org"
+    ]
+  },
+  {
+    "business_description": "A compact treadmill brand for apartments with noise-reduction tech.",
+    "domain_names": [
+      "quietstride.com",
+      "aptfitness.co",
+      "slimrunner.fit"
+    ]
+  },
+  {
+    "business_description": "Travel planning agency specializing in accessible itineraries.",
+    "domain_names": [
+      "accessroute.travel",
+      "inclusivejourneys.co",
+      "rollandroam.com"
+    ]
+  },
+  {
+    "business_description": "Local surf school offering beginner lessons and board rentals.",
+    "domain_names": [
+      "firstwave.school",
+      "surfsimple.co",
+      "boardandbreak.tours"
+    ]
+  },
+  {
+    "business_description": "Green dry cleaners using wet-cleaning tech and pickup routes.",
+    "domain_names": [
+      "freshandfairclean.com",
+      "greendry.co",
+      "wetcleanroute.app"
+    ]
+  },
+  {
+    "business_description": "AI-powered tax prep tool for freelancers and digital nomads.",
+    "domain_names": [
+      "nomadtax.ai",
+      "freelancetax.io",
+      "roamrefund.app"
+    ]
+  },
+  {
+    "business_description": "Educational toy subscription box for toddlers and preschoolers.",
+    "domain_names": [
+      "playparcel.co",
+      "tinkerboxkids.com",
+      "toddlertrove.shop"
+    ]
+  },
+  {
+    "business_description": "Handcrafted leather shoe brand with onsite cobbler repairs.",
+    "domain_names": [
+      "cobbleandcraft.com",
+      "leatherlane.co",
+      "shoeworkshop.shop"
+    ]
+  },
+  {
+    "business_description": "Nonprofit offering mental health support groups for new parents.",
+    "domain_names": [
+      "parentpulse.org",
+      "newmindcircle.org",
+      "careparents.co"
+    ]
+  },
+  {
+    "business_description": "A mobile app that helps small retailers automatically reorder inventory using AI-driven demand forecasts.",
+    "domain_names": [
+      "ReStockGenius.com",
+      "AutoReorder.ai",
+      "PredictiveShelf.io"
+    ]
+  },
+  {
+    "business_description": "Neighborhood bike repair shop in Portland offering same-day tune-ups and custom builds.",
+    "domain_names": [
+      "PDXBicycleFix.com",
+      "StumptownCycles.shop",
+      "QuickTuneBikes.net"
+    ]
+  },
+  {
+    "business_description": "Cloud-based bookkeeping service for independent contractors, freelancers, and solo entrepreneurs.",
+    "domain_names": [
+      "SoloLedger.com",
+      "FreelanceBooks.io",
+      "ContractorAccounting.co"
+    ]
+  },
+  {
+    "business_description": "A boutique coffee roaster specializing in small-batch, single-origin beans with monthly subscriptions.",
+    "domain_names": [
+      "PeakOriginCoffee.com",
+      "SmallBatchRoast.co",
+      "SingleSourceBeans.shop"
+    ]
+  },
+  {
+    "business_description": "Telehealth platform connecting patients with licensed dermatologists for fast, virtual skin consultations.",
+    "domain_names": [
+      "DermaNow.com",
+      "SkinTelecare.health",
+      "QuickDerm.io"
+    ]
+  },
+  {
+    "business_description": "Eco-conscious landscaping company creating drought-tolerant gardens and native plant designs.",
+    "domain_names": [
+      "NativeScapeDesign.com",
+      "DroughtWiseGardens.green",
+      "EcoYardStudio.net"
+    ]
+  },
+  {
+    "business_description": "Subscription-based coding bootcamps delivering live, cohort-based courses for career switchers.",
+    "domain_names": [
+      "CohortCode.com",
+      "SwitchToDev.io",
+      "LiveBootcamp.school"
+    ]
+  },
+  {
+    "business_description": "A marketplace for upcycled furniture, connecting local makers with eco-minded buyers.",
+    "domain_names": [
+      "ReFurnishMarket.com",
+      "UpcycleHome.shop",
+      "CircularFurniture.co"
+    ]
+  },
+  {
+    "business_description": "AI-powered tool that converts meeting recordings into action items, summaries, and follow-up emails.",
+    "domain_names": [
+      "MinuteMind.ai",
+      "ActionFromAudio.com",
+      "MeetingToDo.io"
+    ]
+  },
+  {
+    "business_description": "A family-run bakery offering gluten-free pastries and artisan sourdough, with pre-order pickup.",
+    "domain_names": [
+      "WillowBakehouse.com",
+      "GlutenFreeOven.shop",
+      "SourdoughFamily.co"
+    ]
+  },
+  {
+    "business_description": "Online language tutoring specializing in conversational Spanish for travelers and business professionals.",
+    "domain_names": [
+      "SpanishOnCue.com",
+      "TalkEspañol.io",
+      "ConversoSpanish.school"
+    ]
+  },
+  {
+    "business_description": "SaaS platform for construction companies to track jobsite safety compliance and incident reports.",
+    "domain_names": [
+      "HardHatHQ.com",
+      "SiteSafeMonitor.io",
+      "BuildComply.app"
+    ]
+  },
+  {
+    "business_description": "A nonprofit organization providing free STEM workshops to underserved high school students.",
+    "domain_names": [
+      "OpenSTEM.org",
+      "STEMLift.education",
+      "FutureBuilders.school"
+    ]
+  },
+  {
+    "business_description": "Boutique PR agency helping climate tech startups craft narratives and secure media coverage.",
+    "domain_names": [
+      "GreenNarrativePR.com",
+      "ClimateTechPress.io",
+      "EcoStory.agency"
+    ]
+  },
+  {
+    "business_description": "Direct-to-consumer skincare brand using botanical ingredients with refillable packaging.",
+    "domain_names": [
+      "BotanicaRefill.com",
+      "PureLeafSkin.co",
+      "RefillGlow.shop"
+    ]
+  },
+  {
+    "business_description": "Artisanal cheese shop curating local farm cheeses and hosting monthly tasting events.",
+    "domain_names": [
+      "CurdAndCulture.com",
+      "LocalCheeseCellar.shop",
+      "TasteTheWheel.co"
+    ]
+  },
+  {
+    "business_description": "On-demand translation service for legal and medical documents with certified translators.",
+    "domain_names": [
+      "SwiftCertifiedTranslate.com",
+      "LegalMedLingo.io",
+      "DocTranslate.pro"
+    ]
+  },
+  {
+    "business_description": "Digital platform that helps nonprofits measure, report, and visualize their impact metrics.",
+    "domain_names": [
+      "ImpactCanvas.org",
+      "MeasureGood.io",
+      "NonprofitMetrics.com"
+    ]
+  },
+  {
+    "business_description": "A remote-first design studio crafting accessible websites and inclusive brand systems.",
+    "domain_names": [
+      "OpenAccessDesign.com",
+      "InclusiveBrand.studio",
+      "A11ySites.dev"
+    ]
+  },
+  {
+    "business_description": "Local dog walking and pet sitting service with GPS-tracked walks and daily photo updates.",
+    "domain_names": [
+      "HappyPawsRoute.com",
+      "FetchTrack.pet",
+      "WalkAndWag.co"
+    ]
+  },
+  {
+    "business_description": "A fintech app helping Gen Z budget, save, and invest with automated round-ups and insights.",
+    "domain_names": [
+      "SproutSpend.com",
+      "GenZWallet.app",
+      "RoundUpInvest.io"
+    ]
+  },
+  {
+    "business_description": "Specialty tea shop focusing on rare oolongs and ceremonial matcha with virtual tasting classes.",
+    "domain_names": [
+      "OolongAndMatcha.com",
+      "CeremonialLeaf.co",
+      "RareTeaTastings.shop"
+    ]
+  },
+  {
+    "business_description": "A B2B logistics startup optimizing last-mile delivery routes for urban e-commerce brands.",
+    "domain_names": [
+      "CityMileOps.com",
+      "ParcelPath.ai",
+      "UrbanRoute.io"
+    ]
+  },
+  {
+    "business_description": "VR fitness studio offering immersive, instructor-led classes that blend gaming and workouts.",
+    "domain_names": [
+      "VRSweatStudio.com",
+      "ImmersiveFit.app",
+      "GameTrim.io"
+    ]
+  },
+  {
+    "business_description": "An online marketplace for ethically sourced gemstones and custom jewelry design.",
+    "domain_names": [
+      "KindGemMarket.com",
+      "EthicalSparkle.co",
+      "CustomStoneDesign.shop"
+    ]
+  },
+  {
+    "business_description": "AI-driven fraud detection for small online stores, reducing chargebacks and fake accounts.",
+    "domain_names": [
+      "FraudShield.ai",
+      "ChargebackZero.io",
+      "StoreGuardPro.com"
+    ]
+  },
+  {
+    "business_description": "Boutique travel agency crafting slow-travel itineraries focused on culture and cuisine.",
+    "domain_names": [
+      "SlowVoyager.com",
+      "SavorTheJourney.travel",
+      "CulturaCulina.co"
+    ]
+  },
+  {
+    "business_description": "A small batch kombucha brewery offering seasonal flavors and taproom refills.",
+    "domain_names": [
+      "BubblingBirch.com",
+      "SeasonalBooch.co",
+      "KombuchaTaproom.shop"
+    ]
+  },
+  {
+    "business_description": "Platform connecting indie game developers with freelance artists, composers, and QA testers.",
+    "domain_names": [
+      "IndieGuild.io",
+      "DevArtistMatch.com",
+      "GameCrewHub.net"
+    ]
+  },
+  {
+    "business_description": "Eco-friendly moving company using reusable crates and carbon-neutral trucks.",
+    "domain_names": [
+      "GreenCrateMove.com",
+      "EcoShiftLogistics.co",
+      "CarbonNeutralMoves.net"
+    ]
+  },
+  {
+    "business_description": "A learning app that helps kids master math fundamentals through adaptive, story-based challenges.",
+    "domain_names": [
+      "QuestMathKids.com",
+      "StorySum.app",
+      "MathAdventures.school"
+    ]
+  },
+  {
+    "business_description": "Handcrafted leather goods brand specializing in minimalist wallets and belts.",
+    "domain_names": [
+      "OakAndHide.com",
+      "MinimalLeather.co",
+      "CraftedStrap.shop"
+    ]
+  },
+  {
+    "business_description": "SaaS for restaurants to manage waitlists, reservations, and guest feedback in one dashboard.",
+    "domain_names": [
+      "SeatFlow.com",
+      "TablePilot.io",
+      "HostStand.app"
+    ]
+  },
+  {
+    "business_description": "Nonprofit offering free mental health peer support groups and resources.",
+    "domain_names": [
+      "OpenEar.org",
+      "PeersForMind.health",
+      "SupportCircle.network"
+    ]
+  },
+  {
+    "business_description": "A boutique architecture practice specializing in net-zero homes and passive design.",
+    "domain_names": [
+      "ZeroHouseStudio.com",
+      "PassiveForm.design",
+      "NetZeroNest.co"
+    ]
+  },
+  {
+    "business_description": "Online marketplace for artisan baking tools, molds, and custom cookie cutters.",
+    "domain_names": [
+      "BakerToolbox.com",
+      "CraftedCutters.shop",
+      "PastryMaker.co"
+    ]
+  },
+  {
+    "business_description": "Wearable device for seniors that monitors vital signs and alerts caregivers.",
+    "domain_names": [
+      "CarePulseWear.com",
+      "ElderVitals.health",
+      "GuardianBand.io"
+    ]
+  },
+  {
+    "business_description": "A professional conference organizer specializing in climate innovation and clean energy.",
+    "domain_names": [
+      "ClimateSummitPro.com",
+      "CleanEnergyConferences.org",
+      "GreenStage.events"
+    ]
+  },
+  {
+    "business_description": "Mobile car wash and detailing service that uses waterless, biodegradable products.",
+    "domain_names": [
+      "EcoShineMobile.com",
+      "WaterlessDetail.co",
+      "GreenGlossAuto.net"
+    ]
+  },
+  {
+    "business_description": "A global B2B marketplace connecting manufacturers with verified sustainable packaging suppliers.",
+    "domain_names": [
+      "PackSustain.com",
+      "EcoSupplyHub.io",
+      "GreenPackaging.market"
+    ]
+  },
+  {
+    "business_description": "Custom software development studio building enterprise data platforms and APIs.",
+    "domain_names": [
+      "DataForgeLabs.com",
+      "APIFoundry.dev",
+      "EnterpriseStream.io"
+    ]
+  },
+  {
+    "business_description": "Local tutoring center offering SAT/ACT prep and college admissions coaching.",
+    "domain_names": [
+      "NextStepScholars.com",
+      "PrepBridge.education",
+      "CollegeCoachCenter.school"
+    ]
+  },
+  {
+    "business_description": "AI voice assistant that generates human-like IVR flows for customer support lines.",
+    "domain_names": [
+      "VoiceFlowAI.com",
+      "SpeakServe.io",
+      "IVRgen.ai"
+    ]
+  },
+  {
+    "business_description": "A plant-based meal prep service delivering chef-crafted, nutritionally balanced menus.",
+    "domain_names": [
+      "GreenForkPrep.com",
+      "PlantPlated.co",
+      "VeganChefBox.shop"
+    ]
+  },
+  {
+    "business_description": "HR consultancy helping startups build equitable compensation frameworks and career ladders.",
+    "domain_names": [
+      "FairScaleHR.com",
+      "EquitableComp.io",
+      "CareerLattice.consulting"
+    ]
+  },
+  {
+    "business_description": "An indie film studio producing socially conscious documentaries and short films.",
+    "domain_names": [
+      "BrightLensFilms.com",
+      "CivicDocu.studio",
+      "NorthStarCinema.net"
+    ]
+  },
+  {
+    "business_description": "A craft brewery and taproom focusing on barrel-aged stouts and sours.",
+    "domain_names": [
+      "BarrelVistaBrewing.com",
+      "SourAndStout.co",
+      "OakAgedTaproom.beer"
+    ]
+  },
+  {
+    "business_description": "Cybersecurity training platform offering phishing simulations and compliance modules.",
+    "domain_names": [
+      "PhishProof.io",
+      "SecureStaff.training",
+      "ComplyGuard.app"
+    ]
+  },
+  {
+    "business_description": "Local flower farm offering seasonal CSA bouquets and wedding florals.",
+    "domain_names": [
+      "MeadowAndMossFlowers.com",
+      "SeasonalBloomCSA.co",
+      "FarmToVase.shop"
+    ]
+  },
+  {
+    "business_description": "A cloud service that backs up design files and auto-generates versioned previews for teams.",
+    "domain_names": [
+      "DesignVault.cloud",
+      "PreviewBranch.io",
+      "SketchSafe.dev"
+    ]
+  },
+  {
+    "business_description": "Sustainable sneaker brand using recycled ocean plastics and algae foam soles.",
+    "domain_names": [
+      "TideStep.com",
+      "OceanLoopSneakers.co",
+      "EcoStride.shop"
+    ]
+  },
+  {
+    "business_description": "Mobile notary service offering evening and weekend appointments across the metro area.",
+    "domain_names": [
+      "MetroSealNotary.com",
+      "AfterHoursNotary.net",
+      "SignOnWheels.co"
+    ]
+  },
+  {
+    "business_description": "A research lab commercializing biodegradable packaging made from agricultural waste.",
+    "domain_names": [
+      "AgriWrapLabs.com",
+      "BioFiberPack.io",
+      "WasteToWrap.tech"
+    ]
+  },
+  {
+    "business_description": "An e-learning platform for corporate teams to practice inclusive leadership skills.",
+    "domain_names": [
+      "LeadInclusive.com",
+      "BelongingAcademy.io",
+      "EquityLeaders.school"
+    ]
+  },
+  {
+    "business_description": "Mobile app that analyzes grocery receipts to suggest healthier swaps and recipes.",
+    "domain_names": [
+      "ReceiptToRecipe.com",
+      "SmartCartSwap.app",
+      "HealthyTill.io"
+    ]
+  },
+  {
+    "business_description": "Professional photography studio specializing in product and brand lifestyle shoots.",
+    "domain_names": [
+      "FrameAndFoundry.com",
+      "BrandLens.studio",
+      "ProductShot.pro"
+    ]
+  },
+  {
+    "business_description": "A neighborhood coworking space with podcast booths and video production suites.",
+    "domain_names": [
+      "StudioDeskCo.com",
+      "PodAndPixel.space",
+      "CreateLocal.work"
+    ]
+  },
+  {
+    "business_description": "On-demand home organization service helping families declutter and optimize storage.",
+    "domain_names": [
+      "TidyNestCo.com",
+      "DeclutterDash.io",
+      "HomeHarmony.services"
+    ]
+  },
+  {
+    "business_description": "A digital marketplace for certified organic spices and fair-trade blends.",
+    "domain_names": [
+      "TrueSpiceMarket.com",
+      "FairBlend.co",
+      "OrganicMasala.shop"
+    ]
+  },
+  {
+    "business_description": "AI coaching tool for sales reps that analyzes calls and provides improvement tips.",
+    "domain_names": [
+      "PitchCoach.ai",
+      "CallInsightPro.io",
+      "SellSmarter.app"
+    ]
+  },
+  {
+    "business_description": "Community makerspace offering 3D printing, CNC routing, and electronics labs.",
+    "domain_names": [
+      "OpenForgeMakers.com",
+      "CityMakerLab.org",
+      "ProtoHub.space"
+    ]
+  },
+  {
+    "business_description": "A boutique fitness studio blending Pilates, barre, and mobility sessions.",
+    "domain_names": [
+      "FlexAndFormStudio.com",
+      "BarrePilatesLab.co",
+      "FlowMobility.fit"
+    ]
+  },
+  {
+    "business_description": "Local SEO agency helping plumbers, electricians, and contractors dominate search.",
+    "domain_names": [
+      "TradesRank.com",
+      "BlueCollarSEO.io",
+      "LocalContractorBoost.agency"
+    ]
+  },
+  {
+    "business_description": "An online thrift store curating vintage denim and retro streetwear drops.",
+    "domain_names": [
+      "RetroReboot.shop",
+      "VintageThreadDrop.com",
+      "DenimDaze.co"
+    ]
+  },
+  {
+    "business_description": "Smart irrigation system for small farms using soil sensors and weather data.",
+    "domain_names": [
+      "AquaField.io",
+      "SmartFarmIrrigate.com",
+      "SoilSenseWater.tech"
+    ]
+  },
+  {
+    "business_description": "A family dental clinic focusing on preventative care and gentle pediatric dentistry.",
+    "domain_names": [
+      "BrightSproutDental.com",
+      "GentleSmileClinic.health",
+      "FamilyToothCare.clinic"
+    ]
+  },
+  {
+    "business_description": "Digital catalog and ordering platform for boutique wholesalers and retailers.",
+    "domain_names": [
+      "ShowroomSync.com",
+      "BoutiqueWholesale.io",
+      "OrderLinkHQ.co"
+    ]
+  },
+  {
+    "business_description": "Carbon accounting software helping SMEs track, reduce, and report emissions.",
+    "domain_names": [
+      "CarbonLedger.io",
+      "SMEFootprint.com",
+      "ReduceReport.green"
+    ]
+  },
+  {
+    "business_description": "A podcast network producing shows on tech ethics, privacy, and digital culture.",
+    "domain_names": [
+      "EthicWave.fm",
+      "PrivacyPodNetwork.com",
+      "DigitalCultureAudio.net"
+    ]
+  },
+  {
+    "business_description": "Home healthcare staffing platform matching licensed nurses with families in need.",
+    "domain_names": [
+      "NurseNeighbor.com",
+      "CareShift.health",
+      "HomeRNmatch.io"
+    ]
+  },
+  {
+    "business_description": "Art gallery showcasing emerging Latin American artists with online exhibitions.",
+    "domain_names": [
+      "SolYArteGallery.com",
+      "LatinCanvas.art",
+      "NewWaveLatAm.gallery"
+    ]
+  },
+  {
+    "business_description": "A SaaS tool for breweries to manage production schedules, inventory, and batch traceability.",
+    "domain_names": [
+      "BrewBench.io",
+      "HopTrace.com",
+      "BatchBarrel.app"
+    ]
+  },
+  {
+    "business_description": "Local IT repair shop offering data recovery, laptop screen repair, and virus removal.",
+    "domain_names": [
+      "FixByteIT.com",
+      "NeighborhoodTechRepair.net",
+      "LaptopLifesaver.co"
+    ]
+  },
+  {
+    "business_description": "Children’s music school providing early childhood classes and private instrument lessons.",
+    "domain_names": [
+      "LittleNoteMusic.com",
+      "YoungMelody.school",
+      "TinyTonesAcademy.org"
+    ]
+  },
+  {
+    "business_description": "A gourmet food truck serving Korean-Mexican fusion tacos and rice bowls.",
+    "domain_names": [
+      "SeoulCaliTaco.com",
+      "KMXfusion.co",
+      "StreetSeoulBites.food"
+    ]
+  },
+  {
+    "business_description": "B2B SaaS that streamlines procurement approvals and vendor onboarding workflows.",
+    "domain_names": [
+      "ProcurePilot.com",
+      "VendorPath.io",
+      "ApproveFlow.app"
+    ]
+  },
+  {
+    "business_description": "AI-driven resume builder that tailors bullet points to job descriptions and ATS.",
+    "domain_names": [
+      "ResumeCraft.ai",
+      "AutoATS.io",
+      "TailorMyCV.com"
+    ]
+  },
+  {
+    "business_description": "A boutique salon offering curly hair specialists and custom color services.",
+    "domain_names": [
+      "CurlAndCanvasSalon.com",
+      "ColorBloomHair.co",
+      "CurlsOnly.studio"
+    ]
+  },
+  {
+    "business_description": "A craft chocolate maker sourcing single-origin cacao and offering factory tours.",
+    "domain_names": [
+      "CacaoPeakChocolate.com",
+      "SingleOriginCrafters.co",
+      "BeanToBarTours.shop"
+    ]
+  },
+  {
+    "business_description": "Drone inspection service for solar farms, rooftops, and hard-to-reach infrastructure.",
+    "domain_names": [
+      "SkyGridInspect.com",
+      "SolarDroneScan.io",
+      "AeroInfra.tech"
+    ]
+  },
+  {
+    "business_description": "A peer-to-peer lending platform facilitating microloans for small businesses.",
+    "domain_names": [
+      "NeighborLend.com",
+      "MicroBridge.finance",
+      "PeerFund.io"
+    ]
+  },
+  {
+    "business_description": "Sustainable swimwear brand made from recycled nylon with bold, modern designs.",
+    "domain_names": [
+      "TideWeave.com",
+      "ReNylonSwim.co",
+      "BoldSurfwear.shop"
+    ]
+  },
+  {
+    "business_description": "A neighborhood bookstore with a curated selection of indie titles and weekly author events.",
+    "domain_names": [
+      "CornerLeafBooks.com",
+      "IndieStacks.shop",
+      "NeighborhoodReads.co"
+    ]
+  },
+  {
+    "business_description": "Cloud kitchen that partners with local chefs to launch delivery-only restaurant concepts.",
+    "domain_names": [
+      "GhostPantry.com",
+      "ChefCloudKitchens.co",
+      "VirtualMenuHub.io"
+    ]
+  },
+  {
+    "business_description": "A legal tech startup providing e-signature and document automation for law firms.",
+    "domain_names": [
+      "LegalSignFlow.com",
+      "DocAutoCounsel.io",
+      "FirmStream.legal"
+    ]
+  },
+  {
+    "business_description": "Mental wellness app offering CBT-based exercises, journaling, and mood tracking.",
+    "domain_names": [
+      "MindMosaic.app",
+      "CBTToolkit.health",
+      "MoodMap.io"
+    ]
+  },
+  {
+    "business_description": "An event rental service providing premium tableware, linens, and decor for weddings and parties.",
+    "domain_names": [
+      "GatherGraceRentals.com",
+      "EventTableau.co",
+      "PartyLuxeRental.events"
+    ]
+  },
+  {
+    "business_description": "A SaaS platform for community associations to manage dues, maintenance, and communications.",
+    "domain_names": [
+      "HOAHub.com",
+      "CommunitySync.io",
+      "AssociationCloud.app"
+    ]
+  },
+  {
+    "business_description": "Farm-to-table restaurant showcasing seasonal produce and regional flavors.",
+    "domain_names": [
+      "HarvestAndHearth.com",
+      "SeasonalFork.co",
+      "FarmPlateKitchen.restaurant"
+    ]
+  },
+  {
+    "business_description": "AI time-tracking for creative agencies that auto-tags tasks and generates client-ready reports.",
+    "domain_names": [
+      "CreativeChrono.ai",
+      "AutoTagTime.io",
+      "AgencyHours.com"
+    ]
+  },
+  {
+    "business_description": "Urban compost pickup service for apartments and small businesses with a rewards program.",
+    "domain_names": [
+      "CityCompostClub.com",
+      "UrbanScraps.green",
+      "BinToSoil.co"
+    ]
+  },
+  {
+    "business_description": "An app that finds and books local sports and fitness classes with dynamic pricing.",
+    "domain_names": [
+      "ClassRush.fit",
+      "FlexPassSports.com",
+      "MoveLocal.app"
+    ]
+  },
+  {
+    "business_description": "Consultancy helping manufacturers implement lean processes and Industry 4.0 upgrades.",
+    "domain_names": [
+      "LeanForgeConsulting.com",
+      "Factory4x.io",
+      "ProcessPivot.co"
+    ]
+  },
+  {
+    "business_description": "Organic baby clothing brand using hypoallergenic cotton and low-impact dyes.",
+    "domain_names": [
+      "CottonSproutBaby.com",
+      "PureNestKids.co",
+      "GentleBud.shop"
+    ]
+  },
+  {
+    "business_description": "Handmade ceramics studio offering custom dinnerware and pottery workshops.",
+    "domain_names": [
+      "ClayAndCove.com",
+      "CustomKiln.studio",
+      "PotterLearn.shop"
+    ]
+  },
+  {
+    "business_description": "A digital mental health clinic focusing on burnout, stress, and executive coaching.",
+    "domain_names": [
+      "BurnoutReliefClinic.com",
+      "ExecMindCoach.health",
+      "StressSmartCare.io"
+    ]
+  },
+  {
+    "business_description": "Neighborhood nail spa specializing in non-toxic polishes and clean beauty standards.",
+    "domain_names": [
+      "PurePolishNailSpa.com",
+      "CleanNails.co",
+      "KindLacquer.studio"
+    ]
+  },
+  {
+    "business_description": "Data visualization consultancy translating complex analytics into clear executive dashboards.",
+    "domain_names": [
+      "VizClarity.com",
+      "DashlaneAnalytics.io",
+      "ExecDash.pro"
+    ]
+  },
+  {
+    "business_description": "Nonprofit supporting refugee entrepreneurs with training, microgrants, and mentorship.",
+    "domain_names": [
+      "RefugeeFounders.org",
+      "NewRootsMentor.org",
+      "PathwayGrants.nonprofit"
+    ]
+  },
+  {
+    "business_description": "A boutique recruiting firm placing diverse product managers in high-growth tech companies.",
+    "domain_names": [
+      "ProductTalentCollective.com",
+      "InclusivePMRecruit.io",
+      "ScaleHirePM.co"
+    ]
+  },
+  {
+    "business_description": "IoT platform for smart buildings that optimizes HVAC and lighting to reduce energy costs.",
+    "domain_names": [
+      "BuildSense.io",
+      "HVACSmartGrid.com",
+      "LuminaControl.tech"
+    ]
+  },
+  {
+    "business_description": "Personalized nutrition service offering DNA-based meal plans and grocery lists.",
+    "domain_names": [
+      "GenePlate.com",
+      "DNANourish.io",
+      "PersonalFuel.health"
+    ]
+  },
+  {
+    "business_description": "An outdoor gear shop specializing in ultralight backpacking equipment and repairs.",
+    "domain_names": [
+      "FeatherTrailGear.com",
+      "UltralightFix.co",
+      "PackWeighLess.shop"
+    ]
+  },
+  {
+    "business_description": "Software enabling museums to create interactive, mobile-friendly exhibit guides.",
+    "domain_names": [
+      "ExhibitPulse.com",
+      "MuseoGuide.io",
+      "CurateMobile.app"
+    ]
+  },
+  {
+    "business_description": "An online platform connecting homeowners with vetted solar installers and financing.",
+    "domain_names": [
+      "SunMatchHome.com",
+      "SolarBidder.io",
+      "BrightRoof.energy"
+    ]
+  },
+  {
+    "business_description": "Hand-illustrated stationery brand offering personalized wedding invitations.",
+    "domain_names": [
+      "InkAndIvyPaper.com",
+      "PetalPressInvites.co",
+      "CustomFlourish.shop"
+    ]
+  },
+  {
+    "business_description": "A local farmers market collective coordinating weekly pop-up markets across the city.",
+    "domain_names": [
+      "CityRootsMarket.com",
+      "PopUpHarvest.co",
+      "LocalGreensCollective.org"
+    ]
+  },
+  {
+    "business_description": "AI-powered document search for internal wikis and knowledge bases.",
+    "domain_names": [
+      "KnowledgeLens.ai",
+      "Wikifind.io",
+      "DocSeekPro.com"
+    ]
+  },
+  {
+    "business_description": "Home staging company helping real estate agents create inviting, modern interiors.",
+    "domain_names": [
+      "OpenHouseStage.com",
+      "ModernNestStaging.co",
+      "SellWithStyle.design"
+    ]
+  },
+  {
+    "business_description": "A SaaS that automates rebate programs and channel incentives for manufacturers.",
+    "domain_names": [
+      "RebateRanger.com",
+      "ChannelIncentive.io",
+      "PromoLedger.app"
+    ]
+  },
+  {
+    "business_description": "Local bike share service with e-bikes and solar-powered docking stations.",
+    "domain_names": [
+      "SunCycleShare.com",
+      "EcoPedalCity.co",
+      "SolarBikeDock.io"
+    ]
+  },
+  {
+    "business_description": "A platform for artisans to sell customizable home decor with AR previews.",
+    "domain_names": [
+      "CraftedCasa.com",
+      "HomeDecorAR.io",
+      "ArtisanPreview.shop"
+    ]
+  },
+  {
+    "business_description": "Professional organizing for digital life: inboxes, photos, and cloud files.",
+    "domain_names": [
+      "DeclutterDigital.com",
+      "InboxToOrder.io",
+      "CloudTidy.app"
+    ]
+  },
+  {
+    "business_description": "Sustainable urban farming company building rooftop greenhouses for restaurants.",
+    "domain_names": [
+      "RoofHarvest.com",
+      "SkyGreenFarms.co",
+      "UrbanTopsoil.green"
+    ]
+  },
+  {
+    "business_description": "A boutique wine importer focusing on biodynamic and natural wines.",
+    "domain_names": [
+      "VineAndVerve.com",
+      "NaturalCrush.co",
+      "BiodynWines.shop"
+    ]
+  },
+  {
+    "business_description": "A local HVAC company offering high-efficiency heat pump installs and maintenance plans.",
+    "domain_names": [
+      "HeatWaveHVAC.com",
+      "EcoPumpHeating.co",
+      "EfficientAirCare.net"
+    ]
+  },
+  {
+    "business_description": "Pet wellness subscription delivering vet-approved supplements and treats.",
+    "domain_names": [
+      "PawVitalize.com",
+      "VetTreatBox.pet",
+      "PetWellnessKit.co"
+    ]
+  },
+  {
+    "business_description": "A startup building open-source hardware kits for robotics education.",
+    "domain_names": [
+      "OpenBotKits.com",
+      "EduRoboKit.io",
+      "MakeRobots.school"
+    ]
+  },
+  {
+    "business_description": "Online thrift bookstore donating a portion of sales to local libraries.",
+    "domain_names": [
+      "StackCycleBooks.com",
+      "ReReadThrift.shop",
+      "LibraryGiveback.org"
+    ]
+  },
+  {
+    "business_description": "Financial planning for new parents: college savings, insurance, and budgeting.",
+    "domain_names": [
+      "NestFundAdvisors.com",
+      "FamilyFinancePlan.co",
+      "TinyTuitionFunds.finance"
+    ]
+  },
+  {
+    "business_description": "A SaaS platform for landlords to screen tenants, collect rent, and manage maintenance.",
+    "domain_names": [
+      "LeaseLogic.com",
+      "TenantTrack.io",
+      "RentSuite.app"
+    ]
+  },
+  {
+    "business_description": "Custom PC building service with thermal optimization and silent cooling.",
+    "domain_names": [
+      "QuietForgePC.com",
+      "ThermaBuild.io",
+      "SilentRig.co"
+    ]
+  },
+  {
+    "business_description": "A vegan donut shop with rotating seasonal flavors and gluten-free options.",
+    "domain_names": [
+      "KindCrumbDonuts.com",
+      "PlantSweet.shop",
+      "VeganRing.co"
+    ]
+  },
+  {
+    "business_description": "Digital adoption platform that guides employees through complex enterprise software.",
+    "domain_names": [
+      "GuideLayer.com",
+      "AdoptFlow.io",
+      "OnscreenCoach.app"
+    ]
+  },
+  {
+    "business_description": "An independent bookstore and cafe hosting poetry readings and open mic nights.",
+    "domain_names": [
+      "VerseAndVellum.com",
+      "BookAndBrewCafe.co",
+      "OpenMicStacks.net"
+    ]
+  },
+  {
+    "business_description": "Elder care coordination service helping families manage schedules, meds, and caregivers.",
+    "domain_names": [
+      "CareCompassFamily.com",
+      "ElderEase.health",
+      "CaregiverSync.io"
+    ]
+  },
+  {
+    "business_description": "An eco-forward hotel brand with plastic-free amenities and local sourcing.",
+    "domain_names": [
+      "EverGreenStay.com",
+      "EcoHavenHotels.co",
+      "LocalLeafLodging.travel"
+    ]
+  },
+  {
+    "business_description": "Marketing analytics tool for Shopify stores to attribute revenue across channels.",
+    "domain_names": [
+      "ChannelMint.io",
+      "ShopAttribution.com",
+      "RevTrack.app"
+    ]
+  },
+  {
+    "business_description": "Community-based bike cooperative teaching maintenance and promoting safe cycling.",
+    "domain_names": [
+      "PedalCoop.org",
+      "RideSafeCollective.org",
+      "CommunityCrank.co"
+    ]
+  },
+  {
+    "business_description": "A boutique plant shop with rare houseplants and personalized care plans.",
+    "domain_names": [
+      "RareRootPlantShop.com",
+      "LeafAndLore.co",
+      "HouseplantStudio.shop"
+    ]
+  },
+  {
+    "business_description": "Real-time transcription and captioning service for conferences and webinars.",
+    "domain_names": [
+      "CaptionStream.com",
+      "LiveTranscribePro.io",
+      "EventSubtitles.app"
+    ]
+  },
+  {
+    "business_description": "A next-gen CRM optimized for product-led growth companies and self-serve funnels.",
+    "domain_names": [
+      "PLGcrm.com",
+      "FlowFunnel.io",
+      "SelfServeSales.app"
+    ]
+  },
+  {
+    "business_description": "Local artisan candle company using soy wax and essential oils with refill stations.",
+    "domain_names": [
+      "GlowGroveCandles.com",
+      "SoyAndSoul.co",
+      "RefillWax.shop"
+    ]
+  },
+  {
+    "business_description": "Platform for mentoring women in tech through peer circles and leadership tracks.",
+    "domain_names": [
+      "HerTechMentor.com",
+      "PeerCircleLeaders.org",
+      "WomenCodeLift.io"
+    ]
+  },
+  {
+    "business_description": "A specialty running store offering gait analysis and custom shoe fittings.",
+    "domain_names": [
+      "StrideScienceRun.com",
+      "CustomGait.co",
+      "RunFitLab.shop"
+    ]
+  },
+  {
+    "business_description": "Green homebuilder constructing modular, energy-efficient ADUs and tiny homes.",
+    "domain_names": [
+      "ModNestGreen.com",
+      "EcoADU.co",
+      "TinyGridHomes.io"
+    ]
+  },
+  {
+    "business_description": "A SaaS that automates compliance documentation for SOC 2 and ISO 27001 audits.",
+    "domain_names": [
+      "AuditAuto.io",
+      "SOC2Simplify.com",
+      "ISOTrack.app"
+    ]
+  },
+  {
+    "business_description": "Art therapy studio providing workshops for stress relief and creativity.",
+    "domain_names": [
+      "ColorCalmStudio.com",
+      "ArtRelief.health",
+      "TherapyCanvas.co"
+    ]
+  },
+  {
+    "business_description": "Local surf school offering small-group lessons and eco-conscious board rentals.",
+    "domain_names": [
+      "BlueFinSurfSchool.com",
+      "EcoWaveRentals.co",
+      "SmallBreakLessons.surf"
+    ]
+  },
+  {
+    "business_description": "A machine learning MLOps platform that streamlines model deployment and monitoring.",
+    "domain_names": [
+      "ModelRelay.ai",
+      "MLOpsDeck.io",
+      "DeployAndWatch.dev"
+    ]
+  },
+  {
+    "business_description": "Kitchen remodeling company specializing in sustainable materials and modern designs.",
+    "domain_names": [
+      "EcoKitchenCraft.com",
+      "ModernMapleRenovate.co",
+      "GreenStoneRemodel.net"
+    ]
+  },
+  {
+    "business_description": "An online marketplace for local art prints with on-demand framing and shipping.",
+    "domain_names": [
+      "CityArtPrints.com",
+      "FrameOnDemand.co",
+      "LocalCanvas.market"
+    ]
+  },
+  {
+    "business_description": "AI recruiting assistant that screens resumes and schedules interviews automatically.",
+    "domain_names": [
+      "HirePilot.ai",
+      "AutoScreenHR.io",
+      "InterviewSync.app"
+    ]
+  },
+  {
+    "business_description": "A digital-first insurance broker offering simple, transparent policies for freelancers.",
+    "domain_names": [
+      "FreelanceCover.com",
+      "ClearPolicy.io",
+      "SoloShield.insure"
+    ]
+  },
+  {
+    "business_description": "Boutique soap maker creating cold-process bars with wild-harvested botanicals.",
+    "domain_names": [
+      "WildLatherCo.com",
+      "BotanicalBarSoaps.co",
+      "ColdProcessCraft.shop"
+    ]
+  },
+  {
+    "business_description": "Childcare center with a nature-based curriculum and outdoor classrooms.",
+    "domain_names": [
+      "ForestFriendsChildcare.com",
+      "NatureNestKids.co",
+      "GreenPlayLearning.school"
+    ]
+  },
+  {
+    "business_description": "A B2B tool for tracking ESG supplier data and generating compliance reports.",
+    "domain_names": [
+      "SupplyESG.com",
+      "EthicsChain.io",
+      "GreenVendor.app"
+    ]
+  },
+  {
+    "business_description": "Local board game cafe with a curated library, weekly tournaments, and artisan snacks.",
+    "domain_names": [
+      "MeepleAndMunch.com",
+      "BoardBrewCafe.co",
+      "Playtable.games"
+    ]
+  },
+  {
+    "business_description": "An AI-based email security filter that flags deepfake content and impersonation.",
+    "domain_names": [
+      "ImpersonateGuard.ai",
+      "DeepfakeShield.io",
+      "TrustMailSecure.com"
+    ]
+  },
+  {
+    "business_description": "A sustainable fashion label using deadstock fabrics to create limited-run collections.",
+    "domain_names": [
+      "RerollFashion.com",
+      "DeadstockEdit.co",
+      "CircularThreads.shop"
+    ]
+  },
+  {
+    "business_description": "A rustic bed-and-breakfast offering farm-to-table breakfasts and vineyard tours.",
+    "domain_names": [
+      "VineyardHavenBnB.com",
+      "FarmToStay.co",
+      "CountrysideInn.travel"
+    ]
+  },
+  {
+    "business_description": "An urban mobility startup offering microtransit shuttles with dynamic routing.",
+    "domain_names": [
+      "MicroRide.io",
+      "CityShuttleFlow.com",
+      "DynamicTransit.app"
+    ]
+  },
+  {
+    "business_description": "A virtual interior design service delivering 3D room designs and furniture lists.",
+    "domain_names": [
+      "RoomRenderStudio.com",
+      "DesignByDistance.co",
+      "VirtualNest.design"
+    ]
+  },
+  {
+    "business_description": "A hydroponic farm producing leafy greens year-round for local restaurants.",
+    "domain_names": [
+      "EverleafHydro.com",
+      "CityGreensFarm.co",
+      "HydroHarvest.farm"
+    ]
+  },
+  {
+    "business_description": "Web accessibility testing tool that scans sites and provides remediation guidance.",
+    "domain_names": [
+      "A11yScanPro.com",
+      "FixAccessibility.io",
+      "InclusiveWebAudit.dev"
+    ]
+  },
+  {
+    "business_description": "A boutique mobile app consultancy building fintech and health apps with privacy by design.",
+    "domain_names": [
+      "PrivyAppWorks.com",
+      "FinHealthMobile.co",
+      "ByDesignApps.dev"
+    ]
+  },
+  {
+    "business_description": "Going-out guide app showing live wait times for bars, restaurants, and events.",
+    "domain_names": [
+      "OutNowLive.com",
+      "WaitLessNights.app",
+      "CityPulse.io"
+    ]
+  },
+  {
+    "business_description": "A flexible staffing marketplace matching vetted nurses with hospitals' surge shifts.",
+    "domain_names": [
+      "NurseSurge.com",
+      "ShiftBridge.health",
+      "RNflex.io"
+    ]
+  },
+  {
+    "business_description": "SaaS for nonprofits to run donor campaigns, track grants, and manage volunteers.",
+    "domain_names": [
+      "DonorOrbit.org",
+      "GrantTrail.io",
+      "VolunteerSync.app"
+    ]
+  },
+  {
+    "business_description": "Local artisanal cheese and charcuterie board catering for private events.",
+    "domain_names": [
+      "GrazingGroveCatering.com",
+      "BoardAndBounty.co",
+      "CharcuterieCraft.shop"
+    ]
+  },
+  {
+    "business_description": "A digital collectibles platform for photographers to mint limited-edition photo series.",
+    "domain_names": [
+      "MintedMoment.io",
+      "PhotoEdition.art",
+      "LensCollective.xyz"
+    ]
+  },
+  {
+    "business_description": "Ethical hacking team offering penetration tests and red team exercises for SMBs.",
+    "domain_names": [
+      "CedarRedTeam.com",
+      "SMBPenTest.io",
+      "EthicalHackers.pro"
+    ]
+  },
+  {
+    "business_description": "Local piano tuning and restoration services with at-home appointments.",
+    "domain_names": [
+      "KeyToneTuning.com",
+      "PianoRestoreCo.co",
+      "AtHomeTuner.net"
+    ]
+  },
+  {
+    "business_description": "An influencer marketing platform that tracks creator performance and ROI by content.",
+    "domain_names": [
+      "CreatorCompass.io",
+      "InfluenceROI.com",
+      "ContentLift.app"
+    ]
+  },
+  {
+    "business_description": "Organic skincare spa offering facials, gua sha, and LED light therapy.",
+    "domain_names": [
+      "LumenLeafSpa.com",
+      "GlowGreenSkin.co",
+      "OrganicaFacials.health"
+    ]
+  },
+  {
+    "business_description": "Specialty bookstore focused on cookbooks, food essays, and culinary history.",
+    "domain_names": [
+      "SpiceAndSpineBooks.com",
+      "CulinaryStacks.co",
+      "CookbookCorner.shop"
+    ]
+  },
+  {
+    "business_description": "3D printing service for engineering prototypes with fast quoting and materials advice.",
+    "domain_names": [
+      "ProtoPrintLab.com",
+      "Rapid3Dquote.io",
+      "MaterialMind3D.tech"
+    ]
+  },
+  {
+    "business_description": "Nonprofit literacy program delivering free book boxes to elementary schools.",
+    "domain_names": [
+      "BrightBoxLiteracy.org",
+      "ReadSeed.org",
+      "BookBoostKids.education"
+    ]
+  },
+  {
+    "business_description": "An online boutique selling adaptive clothing designed for people with limited mobility.",
+    "domain_names": [
+      "EaseWearAdaptive.com",
+      "MobilityMade.co",
+      "AdaptiveWardrobe.shop"
+    ]
+  },
+  {
+    "business_description": "A specialty cycling tour company offering guided gravel rides and bikepacking trips.",
+    "domain_names": [
+      "GravelGroveTours.com",
+      "BikepackBound.co",
+      "DustTrailCycling.travel"
+    ]
+  },
+  {
+    "business_description": "Legal practice focusing on immigration law with multilingual support.",
+    "domain_names": [
+      "BridgePathLaw.com",
+      "GlobalVisaCounsel.legal",
+      "ImmigrateRight.co"
+    ]
+  },
+  {
+    "business_description": "AI-driven tax prep that categorizes expenses and suggests deductions for freelancers.",
+    "domain_names": [
+      "WriteOffWizard.ai",
+      "FreelanceTaxGen.io",
+      "SmartDeductions.app"
+    ]
+  },
+  {
+    "business_description": "An artisanal jam company using imperfect produce to reduce food waste.",
+    "domain_names": [
+      "PerfectlyImperfectJams.com",
+      "WasteLessPreserves.co",
+      "SecondChanceSpread.shop"
+    ]
+  },
+  {
+    "business_description": "A marketplace connecting local photographers with families for mini-session shoots.",
+    "domain_names": [
+      "MiniMomentPhotos.com",
+      "FamilyLensLocal.co",
+      "SnapSession.market"
+    ]
+  },
+  {
+    "business_description": "A B2B analytics tool that predicts churn and identifies upsell opportunities.",
+    "domain_names": [
+      "ChurnScout.io",
+      "UpsellSignal.com",
+      "CustomerLift.ai"
+    ]
+  },
+  {
+    "business_description": "A music production school teaching mixing, mastering, and live sound engineering.",
+    "domain_names": [
+      "SoundForgeAcademy.com",
+      "MixMaster.school",
+      "LiveSoundLab.io"
+    ]
+  },
+  {
+    "business_description": "Local craft fair organizer hosting monthly maker markets and kids workshops.",
+    "domain_names": [
+      "CityCraftFairs.com",
+      "MakersAndKids.co",
+      "PopUpArtisan.events"
+    ]
+  },
+  {
+    "business_description": "An eco-driving app that helps fleets cut fuel usage with coaching and route tips.",
+    "domain_names": [
+      "FleetEcoCoach.com",
+      "GreenRouteFleet.io",
+      "FuelWiseDrive.app"
+    ]
+  },
+  {
+    "business_description": "A women-run outdoor gear company designing backpacks tailored for smaller frames.",
+    "domain_names": [
+      "ShePacksOut.com",
+      "TrailHerGear.co",
+      "FitFramePack.shop"
+    ]
+  },
+  {
+    "business_description": "B2B software for automating certificate of insurance collection and verification.",
+    "domain_names": [
+      "CertifyCOI.com",
+      "InsuranceProof.io",
+      "COIflow.app"
+    ]
+  },
+  {
+    "business_description": "A regenerative agriculture consultancy helping ranches implement rotational grazing.",
+    "domain_names": [
+      "GrazeRegenerate.com",
+      "SoilCycleAg.co",
+      "RanchRenewal.farm"
+    ]
+  },
+  {
+    "business_description": "A microbrewery with a cozy taproom and rotating food truck partnerships.",
+    "domain_names": [
+      "HearthHopBrewing.com",
+      "CozyTaproom.co",
+      "TruckAndTap.beer"
+    ]
+  },
+  {
+    "business_description": "An online florist delivering same-day arrangements with compostable packaging.",
+    "domain_names": [
+      "PaperPetalFloral.com",
+      "EcoBloomNow.co",
+      "CompostableBouquet.shop"
+    ]
+  },
+  {
+    "business_description": "Startup building a smart thermostat that learns your comfort patterns and saves energy.",
+    "domain_names": [
+      "ComfortIQ.com",
+      "SmartNestThermo.io",
+      "EnergyEaseHome.tech"
+    ]
+  },
+  {
+    "business_description": "A global training firm helping teams adopt agile, scrum, and product discovery.",
+    "domain_names": [
+      "AgileAtlas.com",
+      "ScrumSpark.io",
+      "DiscoverProduct.school"
+    ]
+  },
+  {
+    "business_description": "Tattoo studio known for fine-line botanical pieces and custom designs.",
+    "domain_names": [
+      "InkAndIvyStudio.com",
+      "FineLineBotanicals.co",
+      "EverGreenInk.art"
+    ]
+  },
+  {
+    "business_description": "Art restoration service specializing in oil paintings and antique frames.",
+    "domain_names": [
+      "CanvasCareRestore.com",
+      "AntiqueFrameLab.co",
+      "ArtConserveStudio.net"
+    ]
+  },
+  {
+    "business_description": "A nonprofit providing tech career training for veterans transitioning to civilian roles.",
+    "domain_names": [
+      "VetsToTech.org",
+      "MissionCode.org",
+      "ValorCareer.school"
+    ]
+  },
+  {
+    "business_description": "Artisan bakery cafe offering sourdough sandwiches, espresso, and Sunday brunch.",
+    "domain_names": [
+      "CrustAndCrema.com",
+      "SourdoughCafe.co",
+      "BrunchAndBatch.shop"
+    ]
+  },
+  {
+    "business_description": "Mobile platform for home service pros to manage leads, quotes, and job scheduling.",
+    "domain_names": [
+      "ProPipeline.app",
+      "QuoteAndGo.io",
+      "ServiceSnap.com"
+    ]
+  },
+  {
+    "business_description": "A cloud-native ETL tool that syncs SaaS data to your warehouse in minutes.",
+    "domain_names": [
+      "SyncInMinutes.io",
+      "CloudETLhub.com",
+      "SaaS2Warehouse.dev"
+    ]
+  },
+  {
+    "business_description": "Local gardening service specializing in pollinator-friendly landscaping.",
+    "domain_names": [
+      "BeeBloomGardens.com",
+      "PollinatorYard.co",
+      "NativeFlora.green"
+    ]
+  },
+  {
+    "business_description": "An online resume and portfolio builder for creatives with one-click case study pages.",
+    "domain_names": [
+      "CaseStudyCraft.com",
+      "CreativeCV.io",
+      "Portfoli.one"
+    ]
+  },
+  {
+    "business_description": "A modern yoga studio offering heated flows, yin classes, and sound baths.",
+    "domain_names": [
+      "SolAndSoundYoga.com",
+      "HeatFlowStudio.co",
+      "YinWave.fit"
+    ]
+  },
+  {
+    "business_description": "Marketplace for refurbished electronics with warranties and sustainability scoring.",
+    "domain_names": [
+      "ReTechCertified.com",
+      "RefurbishRank.co",
+      "EcoScoreElectronics.shop"
+    ]
+  },
+  {
+    "business_description": "A SaaS that creates interactive product demos for SaaS companies without engineering.",
+    "domain_names": [
+      "DemoWeave.com",
+      "NoCodeShowcase.io",
+      "ClickThroughDemo.app"
+    ]
+  },
+  {
+    "business_description": "Handcrafted wooden toy maker focusing on Montessori-inspired designs.",
+    "domain_names": [
+      "SproutWoodToys.com",
+      "MontiCraft.co",
+      "LittleOakPlay.shop"
+    ]
+  },
+  {
+    "business_description": "A global accelerator supporting climate adaptation startups in emerging markets.",
+    "domain_names": [
+      "AdaptationAccelerator.org",
+      "ClimateScaleUp.io",
+      "ResilienceVentures.global"
+    ]
+  },
+  {
+    "business_description": "Local upholstery shop restoring heirloom chairs and custom slipcovers.",
+    "domain_names": [
+      "HeritageUpholstery.com",
+      "ChairRevive.co",
+      "CustomSlipcover.shop"
+    ]
+  },
+  {
+    "business_description": "App for tracking outdoor hikes with offline maps, safety check-ins, and gear lists.",
+    "domain_names": [
+      "TrailBeacon.app",
+      "OfflineHike.io",
+      "PackListOutdoors.com"
+    ]
+  },
+  {
+    "business_description": "A micro-SaaS that compresses and optimizes images on e-commerce stores.",
+    "domain_names": [
+      "PixelPress.io",
+      "ShopImageMin.com",
+      "FastPicPack.app"
+    ]
+  },
+  {
+    "business_description": "Zero-waste grocery store offering bulk dry goods, refill stations, and local produce.",
+    "domain_names": [
+      "RefillRootGrocer.com",
+      "ZeroWastePantry.co",
+      "BulkAndBloom.shop"
+    ]
+  },
+  {
+    "business_description": "Ethical investment advisory specializing in renewable energy and social impact funds.",
+    "domain_names": [
+      "BrightLeafCapital.com",
+      "RenewImpact.finance",
+      "EthicVest.co"
+    ]
+  },
+  {
+    "business_description": "An online ceramics school offering live workshops and glazing masterclasses.",
+    "domain_names": [
+      "ClayClassLive.com",
+      "GlazeMaster.school",
+      "PotteryWorkshop.io"
+    ]
+  },
+  {
+    "business_description": "Bike messenger service for legal documents and urgent parcels in the city core.",
+    "domain_names": [
+      "UrbanPedalCouriers.com",
+      "CityCycleDispatch.co",
+      "RushRider.delivery"
+    ]
+  },
+  {
+    "business_description": "An app for home cooks to plan weekly menus and auto-build grocery lists by store.",
+    "domain_names": [
+      "WeekMenuPro.com",
+      "GrocerGrid.app",
+      "CookPlan.io"
+    ]
+  },
+  {
+    "business_description": "A boutique analytics firm specializing in pricing strategy and elasticity modeling.",
+    "domain_names": [
+      "PriceArcAnalytics.com",
+      "ElasticEdge.io",
+      "RevenueScience.co"
+    ]
+  },
+  {
+    "business_description": "Local mobile physio offering in-home therapy for sports injuries and post-op recovery.",
+    "domain_names": [
+      "MoveMendMobile.com",
+      "HomePhysioCare.health",
+      "SportRecoverNow.co"
+    ]
+  },
+  {
+    "business_description": "Virtual bookkeeping and CFO services for creative agencies and studios.",
+    "domain_names": [
+      "StudioCFO.co",
+      "CreativeLedger.io",
+      "PixelBooks.com"
+    ]
+  },
+  {
+    "business_description": "AI image enhancer that upscales product photos and removes backgrounds.",
+    "domain_names": [
+      "PhotoLift.ai",
+      "CleanCutImage.io",
+      "UpscaleGoods.app"
+    ]
+  },
+  {
+    "business_description": "Double-certified dog training focused on positive reinforcement and reactive dogs.",
+    "domain_names": [
+      "KindCanineCoach.com",
+      "ReactiveRelief.pet",
+      "PositivePaws.training"
+    ]
+  },
+  {
+    "business_description": "A CFO-as-a-service firm for SaaS startups, offering dashboards and board prep.",
+    "domain_names": [
+      "SaaSCFOdesk.com",
+      "BoardReadyFinance.io",
+      "MetricsAndMoats.co"
+    ]
+  },
+  {
+    "business_description": "Interior plant design for offices and hotels with ongoing maintenance plans.",
+    "domain_names": [
+      "LushWorkspace.com",
+      "PlantedInteriors.co",
+      "GreenLobby.design"
+    ]
+  },
+  {
+    "business_description": "Mobile app to find, reserve, and pay for boat slips and marina services.",
+    "domain_names": [
+      "SlipFinder.com",
+      "MarinaReserve.app",
+      "DockNow.io"
+    ]
+  },
+  {
+    "business_description": "An industrial 3D scanning service for reverse engineering and quality inspection.",
+    "domain_names": [
+      "ScanForge3D.com",
+      "ReverseModel.io",
+      "MetrologyMesh.tech"
+    ]
+  },
+  {
+    "business_description": "Local music venue and bar with nightly live acts and craft cocktails.",
+    "domain_names": [
+      "NightNoteVenue.com",
+      "LiveSetBar.co",
+      "StageAndSip.events"
+    ]
+  },
+  {
+    "business_description": "A crowdsourced news platform aggregating local stories with community fact-checking.",
+    "domain_names": [
+      "CivicWire.news",
+      "LocalProof.org",
+      "NeighborPress.co"
+    ]
+  },
+  {
+    "business_description": "Cloud archiving service for creative agencies to store and retrieve large media projects.",
+    "domain_names": [
+      "ArchiveNimbus.com",
+      "MediaVault.cloud",
+      "ProjectColdstore.io"
+    ]
+  },
+  {
+    "business_description": "An AI reading coach that listens and offers real-time feedback for early readers.",
+    "domain_names": [
+      "ReadingBuddy.ai",
+      "ListenToRead.app",
+      "FluentFirst.school"
+    ]
+  },
+  {
+    "business_description": "Sewing studio offering alterations, custom garments, and beginner classes.",
+    "domain_names": [
+      "StitchAndForm.com",
+      "TailorNest.co",
+      "SewBeginner.school"
+    ]
+  },
+  {
+    "business_description": "An events SaaS that sells timed entry tickets and manages crowd flow analytics.",
+    "domain_names": [
+      "TimedGate.com",
+      "FlowEntry.io",
+      "CrowdPulse.app"
+    ]
+  },
+  {
+    "business_description": "Plant-based cheese startup using fermentation to replicate dairy textures.",
+    "domain_names": [
+      "FermaCheese.com",
+      "PlantCurd.co",
+      "CulturedVegan.shop"
+    ]
+  },
+  {
+    "business_description": "A nonprofit providing free coding workshops to rural communities.",
+    "domain_names": [
+      "RuralCode.org",
+      "CampCodeRural.org",
+      "FarmToTech.school"
+    ]
+  },
+  {
+    "business_description": "A brand strategy studio helping D2C companies craft identity and packaging.",
+    "domain_names": [
+      "BrandBarnStudio.com",
+      "D2CDesign.co",
+      "PackAndPersona.design"
+    ]
+  },
+  {
+    "business_description": "A community-supported fishery delivering fresh, traceable seafood subscriptions.",
+    "domain_names": [
+      "HarborHarvestCSF.com",
+      "TraceableCatch.co",
+      "SeaToTableBox.fish"
+    ]
+  },
+  {
+    "business_description": "Modern law firm offering flat-fee startup packages and contract reviews.",
+    "domain_names": [
+      "StartupCounselFlat.com",
+      "ClearFeeLaw.legal",
+      "LaunchLegal.co"
+    ]
+  },
+  {
+    "business_description": "Mobile app for gardeners to identify plants and diagnose issues via AI.",
+    "domain_names": [
+      "LeafLens.ai",
+      "GardenID.app",
+      "PlantDoctor.io"
+    ]
+  },
+  {
+    "business_description": "A home security company installing smart cameras, sensors, and monitoring.",
+    "domain_names": [
+      "SecureNestHome.com",
+      "SmartGuardInstall.co",
+      "HomeShieldConnect.net"
+    ]
+  },
+  {
+    "business_description": "A boutique translation agency for luxury brands and fashion houses.",
+    "domain_names": [
+      "LuxeLingo.com",
+      "FashionTranslate.co",
+      "MaisonWords.agency"
+    ]
+  },
+  {
+    "business_description": "A culinary school for teens focusing on nutrition, baking, and global cuisine.",
+    "domain_names": [
+      "TeenChefLab.com",
+      "YoungCulinary.school",
+      "BakeAndBeyondKids.org"
+    ]
+  },
+  {
+    "business_description": "Sustainable gift boxes featuring local artisans and plastic-free packaging.",
+    "domain_names": [
+      "GreenRibbonGifts.com",
+      "LocalLoveBox.co",
+      "PlasticFreeGift.shop"
+    ]
+  },
+  {
+    "business_description": "A nonprofit legal outreach program providing free immigration clinics.",
+    "domain_names": [
+      "OpenDoorImmigration.org",
+      "CommunityVisaAid.org",
+      "LegalClinicBridge.org"
+    ]
+  },
+  {
+    "business_description": "An AI-enabled document redaction tool for privacy and compliance teams.",
+    "domain_names": [
+      "RedactRight.ai",
+      "PrivacyMask.io",
+      "DocCleanse.app"
+    ]
+  },
+  {
+    "business_description": "Local car-sharing cooperative with hybrid and EV options priced by the hour.",
+    "domain_names": [
+      "CoopCarShare.com",
+      "EcoDriveCoop.co",
+      "HourEVShare.auto"
+    ]
+  },
+  {
+    "business_description": "An indie game studio building cozy narrative adventures with hand-drawn art.",
+    "domain_names": [
+      "MossAndMurmur.com",
+      "CozyQuillGames.studio",
+      "StoryMeadow.games"
+    ]
+  },
+  {
+    "business_description": "A SaaS that automates security questionnaires and vendor risk assessments.",
+    "domain_names": [
+      "SecuQuestionnaire.com",
+      "VendorRiskAuto.io",
+      "TrustForm.app"
+    ]
+  },
+  {
+    "business_description": "A jazz education nonprofit offering free lessons and instrument loans to kids.",
+    "domain_names": [
+      "JazzRoots.org",
+      "BlueNoteYouth.org",
+      "FreeHornLessons.school"
+    ]
+  },
+  {
+    "business_description": "An online platform to book guided mushroom foraging tours and classes.",
+    "domain_names": [
+      "ForageFinders.com",
+      "MushroomGuide.co",
+      "WildFungiTours.nature"
+    ]
+  },
+  {
+    "business_description": "A custom furniture studio crafting live-edge tables and minimalist shelving.",
+    "domain_names": [
+      "GrainAndLine.com",
+      "LiveEdgeStudio.co",
+      "MinimalWoodworks.shop"
+    ]
+  },
+  {
+    "business_description": "A vegan cafe with locally sourced ingredients and zero-waste practices.",
+    "domain_names": [
+      "SproutAndSipCafe.com",
+      "ZeroWasteBites.co",
+      "LocalLeafKitchen.restaurant"
+    ]
+  },
+  {
+    "business_description": "A personal finance newsletter simplifying taxes, money habits, and investing.",
+    "domain_names": [
+      "PlainMoney.news",
+      "TaxAndTidy.com",
+      "SimpleInvestLetters.co"
+    ]
+  },
+  {
+    "business_description": "Cloud service that generates synthetic data for training privacy-safe ML models.",
+    "domain_names": [
+      "SynthSafe.ai",
+      "DataFabricSim.io",
+      "PrivatePatterns.cloud"
+    ]
+  },
+  {
+    "business_description": "Local portrait photographer specializing in natural light family sessions.",
+    "domain_names": [
+      "MeadowLightPhoto.com",
+      "FamilyLensPortraits.co",
+      "GoldenHourFaces.studio"
+    ]
+  },
+  {
+    "business_description": "A platform that verifies artist provenance and tracks secondary sales for digital art.",
+    "domain_names": [
+      "ArtProvenance.io",
+      "TrustMint.art",
+      "OriginTrack.gallery"
+    ]
+  },
+  {
+    "business_description": "A technical recruiting newsletter delivering curated engineering candidates weekly.",
+    "domain_names": [
+      "TalentByteWeekly.com",
+      "CuratedEngineers.io",
+      "DevDigestHire.co"
+    ]
+  },
+  {
+    "business_description": "An online hub for local volunteer opportunities and donation drives.",
+    "domain_names": [
+      "GiveLocalHub.org",
+      "VolunteerVista.org",
+      "DoGoodCity.co"
+    ]
+  },
+  {
+    "business_description": "Mobile dog grooming service offering premium baths, trims, and nail care.",
+    "domain_names": [
+      "PupPolishMobile.com",
+      "GroomOnWheels.pet",
+      "BarkAndBuff.co"
+    ]
+  },
+  {
+    "business_description": "A meditation app featuring diverse teachers and culturally inclusive practices.",
+    "domain_names": [
+      "ManyPathsMeditation.com",
+      "InclusiveCalm.app",
+      "TogetherMindful.io"
+    ]
+  },
+  {
+    "business_description": "Local repair cafe hosting monthly events to fix electronics, bikes, and clothing.",
+    "domain_names": [
+      "FixItFolk.org",
+      "RepairGather.co",
+      "MendAndRide.community"
+    ]
+  },
+  {
+    "business_description": "Enterprise passwordless authentication platform for zero trust environments.",
+    "domain_names": [
+      "PassZero.io",
+      "TrustlessAuth.com",
+      "KeylessSecure.cloud"
+    ]
+  },
+  {
+    "business_description": "A student-run startup incubator offering mentorship, grants, and demo days.",
+    "domain_names": [
+      "CampusFounders.org",
+      "StudentSeedLab.io",
+      "DormRoomDemo.co"
+    ]
+  },
+  {
+    "business_description": "An audiovisual rental company supplying projectors, sound systems, and lighting.",
+    "domain_names": [
+      "EventAVrentals.com",
+      "LightAndSoundHire.co",
+      "ProjectorPro.events"
+    ]
+  },
+  {
+    "business_description": "Local barber shop specializing in classic cuts, straight razors, and beard care.",
+    "domain_names": [
+      "SteelAndStropBarber.com",
+      "ClassicCutHouse.co",
+      "BeardcraftGroom.shop"
+    ]
+  },
+  {
+    "business_description": "Neighborhood deli and market offering house-made sandwiches and specialty imports.",
+    "domain_names": [
+      "CornerCuredDeli.com",
+      "HouseMadeMarket.co",
+      "ImportAndDeli.shop"
+    ]
+  },
+  {
+    "business_description": "Platform for chefs to offer virtual cooking classes and sell digital recipe packs.",
+    "domain_names": [
+      "ChefClassroom.com",
+      "CookLive.io",
+      "RecipePack.store"
+    ]
+  },
+  {
+    "business_description": "A boutique VR studio creating empathy-driven simulations for training and education.",
+    "domain_names": [
+      "EmpathyVR.studio",
+      "LearnByImmersion.com",
+      "SimHuman.io"
+    ]
+  },
+  {
+    "business_description": "Custom cake bakery specializing in sculpted designs and corporate events.",
+    "domain_names": [
+      "SugarFoundryCakes.com",
+      "SculptedSlice.co",
+      "CorporateCakeLab.shop"
+    ]
+  },
+  {
+    "business_description": "A youth sports league organizing co-ed soccer and basketball with volunteer coaches.",
+    "domain_names": [
+      "CityYouthSports.org",
+      "PlayTogetherLeague.co",
+      "VolunteerCoach.club"
+    ]
+  },
+  {
+    "business_description": "A boutique AI consultancy helping mid-market firms adopt generative AI responsibly.",
+    "domain_names": [
+      "GenAIGuide.com",
+      "ResponsibleGen.ai",
+      "MidMarketModels.io"
+    ]
+  },
+  {
+    "business_description": "Local hostel with community kitchens, bike rentals, and art-filled common rooms.",
+    "domain_names": [
+      "CommonCanvasHostel.com",
+      "ArtStayBackpackers.co",
+      "BikeAndBunk.travel"
+    ]
+  },
+  {
+    "business_description": "A supply chain visibility platform offering predictive ETAs and delay alerts.",
+    "domain_names": [
+      "ClearFreight.io",
+      "PredictETA.com",
+      "RouteSignal.cloud"
+    ]
+  },
+  {
+    "business_description": "Fair-trade chocolate subscription that spotlights small cacao farmers monthly.",
+    "domain_names": [
+      "FarmerFirstCacao.com",
+      "FairBeanBox.co",
+      "OriginBar.club"
+    ]
+  },
+  {
+    "business_description": "A climate risk analytics platform for real estate portfolios and insurers.",
+    "domain_names": [
+      "ClimateValuer.io",
+      "RiskAndResilience.ai",
+      "RealEstateClimate.com"
+    ]
+  },
+  {
+    "business_description": "An online dance studio offering hip-hop, ballet, and contemporary classes for all levels.",
+    "domain_names": [
+      "DanceAnywhereStudio.com",
+      "HipToBallet.co",
+      "FlowContemporary.school"
+    ]
+  },
+  {
+    "business_description": "A boutique marketing firm crafting brand identities and content for nonprofits.",
+    "domain_names": [
+      "CauseCraftMarketing.com",
+      "GoodStoryStudio.org",
+      "ImpactBrand.agency"
+    ]
+  },
+  {
+    "business_description": "Neighborhood brewery focusing on lagers and pilsners with a family-friendly beer garden.",
+    "domain_names": [
+      "LagerLaneBrew.com",
+      "PilsnerPark.co",
+      "FamilyGardenBeer.beer"
+    ]
+  },
+  {
+    "business_description": "An email newsletter curating the best vintage furniture listings each week.",
+    "domain_names": [
+      "VintageFindsWeekly.com",
+      "RetroRoundup.news",
+      "MidCenturyScout.co"
+    ]
+  },
+  {
+    "business_description": "A SaaS for gyms to manage memberships, class bookings, and trainer scheduling.",
+    "domain_names": [
+      "GymGrid.com",
+      "FitRoster.io",
+      "ClassFlex.app"
+    ]
+  },
+  {
+    "business_description": "Mobile garden service building raised beds and teaching organic gardening basics.",
+    "domain_names": [
+      "BedAndBloom.com",
+      "MobileGardeners.co",
+      "GrowOrganicNow.garden"
+    ]
+  },
+  {
+    "business_description": "Local portrait painter offering commissioned family and pet portraits.",
+    "domain_names": [
+      "CanvasAndKin.com",
+      "PetAndFamilyPortraits.co",
+      "CustomBrush.studio"
+    ]
+  },
+  {
+    "business_description": "Platform to track volunteer hours for schools and community service credits.",
+    "domain_names": [
+      "VolunteerTrack.org",
+      "HourLedger.io",
+      "ServiceCredit.app"
+    ]
+  },
+  {
+    "business_description": "A cloud phone system for startups with AI voicemail and call routing.",
+    "domain_names": [
+      "StartCallCloud.com",
+      "AIvoicemail.io",
+      "RouteRing.app"
+    ]
+  },
+  {
+    "business_description": "Local CSA delivering organic produce boxes and meal-prep recipes weekly.",
+    "domain_names": [
+      "FarmBoxAndFork.com",
+      "CSAFresh.co",
+      "HarvestMealKit.farm"
+    ]
+  },
+  {
+    "business_description": "A co-manufacturing facility helping food startups scale recipes to retail.",
+    "domain_names": [
+      "ScaleKitchen.com",
+      "CoMakeFoods.co",
+      "BatchToMarket.food"
+    ]
+  },
+  {
+    "business_description": "A neighborhood climbing gym offering bouldering, yoga, and youth programs.",
+    "domain_names": [
+      "ClimbCommons.com",
+      "BoulderAndBreathe.co",
+      "YouthGrip.fit"
+    ]
+  },
+  {
+    "business_description": "An online vintage camera shop selling tested film cameras and lenses.",
+    "domain_names": [
+      "RetroLensLab.com",
+      "FilmCameraDepot.co",
+      "AnalogFocus.shop"
+    ]
+  },
+  {
+    "business_description": "A mentoring network for first-generation college students with scholarships.",
+    "domain_names": [
+      "FirstGenMentors.org",
+      "PathwayScholars.org",
+      "MentorAndGrant.education"
+    ]
+  },
+  {
+    "business_description": "Artisanal pasta maker using heirloom grains and bronze-die extrusion.",
+    "domain_names": [
+      "BronzeDiePasta.com",
+      "HeirloomSemolina.co",
+      "ArtisanNoodle.shop"
+    ]
+  },
+  {
+    "business_description": "A smart composting device for apartments with odor control and nutrient sensors.",
+    "domain_names": [
+      "CompostCube.com",
+      "OdorLessBin.io",
+      "NutrientSense.green"
+    ]
+  },
+  {
+    "business_description": "A kids coding club teaching Scratch, Python, and robotics after school.",
+    "domain_names": [
+      "CodeCubClub.com",
+      "KidsRoboticsLab.co",
+      "ScratchToPython.school"
+    ]
+  },
+  {
+    "business_description": "Platform for nonprofits to host virtual galas with ticketing and live auctions.",
+    "domain_names": [
+      "GalaStream.org",
+      "BidAndGive.live",
+      "VirtualBenefit.events"
+    ]
+  },
+  {
+    "business_description": "A B2B payments platform streamlining invoice approvals and early-pay discounts.",
+    "domain_names": [
+      "PayEarlyPro.com",
+      "InvoiceAccelerate.io",
+      "APdiscounts.finance"
+    ]
+  },
+  {
+    "business_description": "An independent record label nurturing folk and indie singer-songwriters.",
+    "domain_names": [
+      "RustAndRiverRecords.com",
+      "IndieFolkLabel.co",
+      "SongbirdHouse.music"
+    ]
+  },
+  {
+    "business_description": "A curated marketplace for handwoven rugs with artisan stories and fair pricing.",
+    "domain_names": [
+      "WeaveAndWorth.com",
+      "FairRugMarket.co",
+      "ArtisanLoom.shop"
+    ]
+  },
+  {
+    "business_description": "Fitness app for new parents featuring stroller-friendly workouts and nap-time routines.",
+    "domain_names": [
+      "StrollerStrong.fit",
+      "NapTimeTraining.app",
+      "ParentPulse.co"
+    ]
+  },
+  {
+    "business_description": "Local sailing school offering ASA certifications and private charters.",
+    "domain_names": [
+      "HarborWindSailing.com",
+      "LearnToSailASA.co",
+      "PrivateTack.charter"
+    ]
+  },
+  {
+    "business_description": "An AI lab building privacy-preserving federated learning solutions for healthcare.",
+    "domain_names": [
+      "FederateHealth.ai",
+      "PrivateMedModels.io",
+      "CareFLresearch.org"
+    ]
+  },
+  {
+    "business_description": "A startup making refillable home cleaning concentrates in reusable aluminum bottles.",
+    "domain_names": [
+      "RefillRootClean.com",
+      "AluClean.co",
+      "ConcentrateHome.shop"
+    ]
+  },
+  {
+    "business_description": "Online platform for teachers to share project-based learning plans and rubrics.",
+    "domain_names": [
+      "ProjectClassroom.com",
+      "RubricShare.io",
+      "PBLteach.school"
+    ]
+  },
+  {
+    "business_description": "DevOps monitoring for Kubernetes with anomaly detection and cost insights.",
+    "domain_names": [
+      "KubeScope.io",
+      "ClusterWatch.ai",
+      "CostAndKube.dev"
+    ]
+  },
+  {
+    "business_description": "Custom signage studio creating neon, LED, and hand-painted shop signs.",
+    "domain_names": [
+      "GlowingGlyphs.com",
+      "SignAndStory.co",
+      "NeonCraft.studio"
+    ]
+  },
+  {
+    "business_description": "A tutoring marketplace matching retired teachers with students for affordable lessons.",
+    "domain_names": [
+      "MentorRetired.com",
+      "TeacherMatch.co",
+      "LearnFromExperience.school"
+    ]
+  },
+  {
+    "business_description": "An adaptive reading app for dyslexic learners with font and spacing customization.",
+    "domain_names": [
+      "ReadEase.app",
+      "DyslexicFriendly.io",
+      "AdaptivePage.school"
+    ]
+  },
+  {
+    "business_description": "A solar installation cooperative offering community-led financing and ownership.",
+    "domain_names": [
+      "SunShareCoop.org",
+      "CommunitySolarTogether.co",
+      "OwnTheSun.energy"
+    ]
+  },
+  {
+    "business_description": "A boutique analytics firm for healthcare operations and capacity planning.",
+    "domain_names": [
+      "CareOpsAnalytics.com",
+      "ClinicCapacity.io",
+      "HealthFlowData.co"
+    ]
+  },
+  {
+    "business_description": "A home decor brand selling minimalist lighting and Scandinavian-inspired fixtures.",
+    "domain_names": [
+      "NordLightHome.com",
+      "MinimalGlow.co",
+      "ScandiFixture.shop"
+    ]
+  },
+  {
+    "business_description": "Artisanal pickle company with bold flavors and locally sourced produce.",
+    "domain_names": [
+      "BrineAndBloom.com",
+      "LocalCrunchPickles.co",
+      "BoldBrine.shop"
+    ]
+  },
+  {
+    "business_description": "Local auto detailing shop offering ceramic coatings and paint correction.",
+    "domain_names": [
+      "ShineCraftAuto.com",
+      "CeramicGloss.co",
+      "PaintPerfectDetail.net"
+    ]
+  },
+  {
+    "business_description": "A sporting goods rental platform for camping, skiing, and paddle sports.",
+    "domain_names": [
+      "GearBorrow.com",
+      "RentTheAdventure.co",
+      "PaddleAndPeak.rentals"
+    ]
+  },
+  {
+    "business_description": "A language learning platform teaching Mandarin through interactive stories and AI tutors.",
+    "domain_names": [
+      "MandaStory.com",
+      "HanziTutor.ai",
+      "SpeakMandarin.app"
+    ]
+  },
+  {
+    "business_description": "A nonprofit art collective providing studio space and grants to emerging painters.",
+    "domain_names": [
+      "EmergentCanvas.org",
+      "StudioGrants.org",
+      "PaintCollective.art"
+    ]
+  },
+  {
+    "business_description": "Mobile locksmith offering emergency lockouts, rekeys, and smart lock installs.",
+    "domain_names": [
+      "QuickKeyMobile.com",
+      "LockOnWheels.co",
+      "SmartLocksmith.io"
+    ]
+  },
+  {
+    "business_description": "Local gelato shop making small-batch flavors with seasonal fruits and herbs.",
+    "domain_names": [
+      "HerbAndCreamGelato.com",
+      "SmallBatchScoops.co",
+      "SeasonalGelato.shop"
+    ]
+  },
+  {
+    "business_description": "A boutique payroll provider specializing in multi-state compliance for startups.",
+    "domain_names": [
+      "StartPayPro.com",
+      "MultistatePayroll.io",
+      "FounderPayroll.co"
+    ]
+  },
+  {
+    "business_description": "An ethical hacking bootcamp offering hands-on labs and job placement support.",
+    "domain_names": [
+      "RedTeamBootcamp.com",
+      "HandsOnHack.school",
+      "PentestPath.io"
+    ]
+  },
+  {
+    "business_description": "Local art supply store featuring sustainable materials and community workshops.",
+    "domain_names": [
+      "GreenBrushSupply.com",
+      "SustainArt.co",
+      "CanvasAndCommunity.shop"
+    ]
+  },
+  {
+    "business_description": "Adult website with explicit nude content",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Escort services directory for adults with explicit offerings",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "A farm animal sanctuary providing lifelong care and advocacy.",
+    "domain_names": [
+      "PasturePromiseSanctuary.org",
+      "FarmFriendHaven.org",
+      "HoofAndHeart.nonprofit"
+    ]
+  },
+  {
+    "business_description": "A B2B marketplace for leftover building materials to reduce construction waste.",
+    "domain_names": [
+      "BuildLeftovers.com",
+      "ReMaterial.market",
+      "WasteLessBuild.co"
+    ]
+  },
+  {
+    "business_description": "Subscription-based compostable diaper service with weekly pickups.",
+    "domain_names": [
+      "EcoDiaperLoop.com",
+      "CompostCradle.co",
+      "GreenNappy.club"
+    ]
+  },
+  {
+    "business_description": "AI retail analytics platform tracking foot traffic and conversion with privacy safeguards.",
+    "domain_names": [
+      "ShopSight.ai",
+      "FootfallFlow.io",
+      "PrivacyRetail.analytics"
+    ]
+  },
+  {
+    "business_description": "An explicit adult dating platform focused on casual hookups",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Online lingerie shop featuring provocative, explicit adult themes",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Adult webcam chat service featuring explicit content",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "A local co-op grocery specializing in bulk goods and community ownership.",
+    "domain_names": [
+      "HarvestCoopGrocery.com",
+      "BulkAndBloomCoop.co",
+      "MemberMarket.org"
+    ]
+  },
+  {
+    "business_description": "A craft distillery with a tasting room and cocktail classes on weekends.",
+    "domain_names": [
+      "CopperLeafDistilling.com",
+      "WeekendCocktailClass.co",
+      "SmallBatchSpirits.bar"
+    ]
+  },
+  {
+    "business_description": "A digital wardrobe app that catalogs clothes and recommends outfits.",
+    "domain_names": [
+      "ClosetCraft.app",
+      "OutfitOracle.io",
+      "Wearwise.co"
+    ]
+  },
+  {
+    "business_description": "A coaching practice helping remote managers build trust and team rituals.",
+    "domain_names": [
+      "RemoteRituals.com",
+      "TrustTeamCoach.io",
+      "LeadFromAfAR.co"
+    ]
+  },
+  {
+    "business_description": "A local preschool with Montessori-inspired curriculum and bilingual education.",
+    "domain_names": [
+      "LittleSproutsMontessori.com",
+      "BilingualRoots.school",
+      "EarlyNestEdu.org"
+    ]
+  },
+  {
+    "business_description": "An adult novelty store with explicit products and erotic content",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Adult entertainment subscription platform with explicit videos and photos",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "A consulting firm helping nonprofits diversify fundraising and build major donor pipelines.",
+    "domain_names": [
+      "DonorMosaicConsulting.com",
+      "FundraiseDiversify.org",
+      "CauseMajorDonors.co"
+    ]
+  },
+  {
+    "business_description": "A neighborhood farm stand selling eggs, honey, and seasonal veg from urban micro-farms.",
+    "domain_names": [
+      "CityPlotFarmStand.com",
+      "UrbanHiveAndHarvest.co",
+      "MicroFarmMarket.shop"
+    ]
+  },
+  {
+    "business_description": "A boutique app builder for Shopify merchants creating custom checkout experiences.",
+    "domain_names": [
+      "CheckoutCraft.io",
+      "ShopifyAppSmith.com",
+      "MerchantMods.dev"
+    ]
+  },
+  {
+    "business_description": "An adult massage parlor advertising sensual, explicit services",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "A platform for explicit adult comics and graphic novels",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Local gym focused on strength training, powerlifting, and small group coaching.",
+    "domain_names": [
+      "IronGardenGym.com",
+      "LiftAndLearn.fit",
+      "StrengthCircle.co"
+    ]
+  },
+  {
+    "business_description": "A sustainable printing company using plant-based inks and recycled paper.",
+    "domain_names": [
+      "LeafPrintStudio.com",
+      "GreenInkPress.co",
+      "EcoPaperPrint.shop"
+    ]
+  },
+  {
+    "business_description": "A mental health nonprofit offering text-based crisis support and resources.",
+    "domain_names": [
+      "TextForCalm.org",
+      "CrisisChatCare.org",
+      "MindLineHelp.health"
+    ]
+  },
+  {
+    "business_description": "An adult-themed streaming network featuring explicit content and cam shows",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Adult dating service for explicit casual encounters and hookups",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "A boutique HR tech startup building equitable performance review systems.",
+    "domain_names": [
+      "FairScoreHR.com",
+      "EquityPerformance.io",
+      "ReviewRight.app"
+    ]
+  },
+  {
+    "business_description": "A community theater producing contemporary plays and youth acting classes.",
+    "domain_names": [
+      "StageAndStory.org",
+      "CityTheatreCo.co",
+      "YoungActors.school"
+    ]
+  },
+  {
+    "business_description": "Adult content subscription hub for explicit fetish material",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "An adult escort booking platform with explicit services and photos",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "An AI tool that detects bias in job descriptions and suggests inclusive language.",
+    "domain_names": [
+      "BiasBuster.ai",
+      "InclusiveJD.io",
+      "HireFairWords.com"
+    ]
+  },
+  {
+    "business_description": "A neighborhood pottery and painting studio with classes for all ages.",
+    "domain_names": [
+      "ClayAndColorStudio.com",
+      "PaintAndThrow.co",
+      "FamilyKiln.classes"
+    ]
+  },
+  {
+    "business_description": "Explicit adult blog publishing erotica and nude galleries",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "A local cheesesteak food truck with late-night hours and vegan options.",
+    "domain_names": [
+      "SteakOnWheels.com",
+      "MidnightCheese.co",
+      "PlantPhillyBites.food"
+    ]
+  },
+  {
+    "business_description": "A virtual conference platform with interactive stages, networking, and expo halls.",
+    "domain_names": [
+      "StageSphere.com",
+      "ExpoMeet.io",
+      "VirtualHall.events"
+    ]
+  },
+  {
+    "business_description": "A fintech startup offering cash flow forecasting and scenario planning for SMBs.",
+    "domain_names": [
+      "FlowcastSMB.com",
+      "ScenarioLedger.io",
+      "CashPlanPro.finance"
+    ]
+  },
+  {
+    "business_description": "Local surfboard shaper crafting custom boards and offering repair services.",
+    "domain_names": [
+      "ShorelineShapes.com",
+      "CustomBreakBoards.co",
+      "SurfFixLab.shop"
+    ]
+  },
+  {
+    "business_description": "An adult video sharing platform featuring explicit user-uploaded content",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Neighborhood ramen shop making fresh noodles and slow-simmered broths.",
+    "domain_names": [
+      "HearthRamen.com",
+      "SlowBroth.co",
+      "FreshNoodleBar.restaurant"
+    ]
+  },
+  {
+    "business_description": "A caregiver marketplace connecting families with vetted eldercare professionals.",
+    "domain_names": [
+      "CareBridgeFamily.com",
+      "VettedEldercare.io",
+      "HelperHive.health"
+    ]
+  },
+  {
+    "business_description": "A seed company offering open-pollinated and heirloom varieties for home gardeners.",
+    "domain_names": [
+      "HeirloomHollowSeeds.com",
+      "OpenPollinate.co",
+      "SeedAndSprout.shop"
+    ]
+  },
+  {
+    "business_description": "Personalized career coaching with mock interviews and portfolio reviews.",
+    "domain_names": [
+      "PathLiftCareers.com",
+      "MockAndMentor.io",
+      "PortfolioPrep.co"
+    ]
+  },
+  {
+    "business_description": "A reading subscription for kids that pairs books with hands-on science kits.",
+    "domain_names": [
+      "BookAndBuildBox.com",
+      "STEMReads.club",
+      "CuriousPages.kids"
+    ]
+  },
+  {
+    "business_description": "Local charcuterie and wine bar with rotating artisanal boards and tasting flights.",
+    "domain_names": [
+      "BoardAndBarrelWine.com",
+      "CharcuterieFlights.co",
+      "CuredAndPoured.bar"
+    ]
+  },
+  {
+    "business_description": "A small-batch soap and candle brand donating proceeds to animal rescues.",
+    "domain_names": [
+      "KindFlameAndFoam.com",
+      "RescueSuds.co",
+      "GivebackGlow.shop"
+    ]
+  },
+  {
+    "business_description": "An AI developer tool that explains codebases and suggests refactors.",
+    "domain_names": [
+      "CodeExplain.ai",
+      "RefactorMuse.io",
+      "DevClarity.app"
+    ]
+  },
+  {
+    "business_description": "Local jewelry studio offering recycled gold pieces and custom engagement rings.",
+    "domain_names": [
+      "EverleafJewelry.com",
+      "ReGoldStudio.co",
+      "CustomRingCraft.shop"
+    ]
+  },
+  {
+    "business_description": "A boutique travel planner creating accessible itineraries for travelers with disabilities.",
+    "domain_names": [
+      "AccessAbleTrips.com",
+      "InclusiveItineraries.co",
+      "TravelWithoutBarriers.travel"
+    ]
+  },
+  {
+    "business_description": "A non-alcoholic bottle shop featuring craft beers, spirits, and mixers.",
+    "domain_names": [
+      "ZeroProofCellar.com",
+      "NAcraftBottle.co",
+      "DrySip.shop"
+    ]
+  },
+  {
+    "business_description": "A virtual assistant agency offering inbox management and operations support to founders.",
+    "domain_names": [
+      "FounderVA.co",
+      "InboxAndOps.com",
+      "AssistPilot.io"
+    ]
+  },
+  {
+    "business_description": "A climate newsletter decoding policy, tech, and markets for professionals.",
+    "domain_names": [
+      "ClimateBriefPro.com",
+      "DecarbDigest.news",
+      "NetZeroSignals.co"
+    ]
+  },
+  {
+    "business_description": "Local mushroom farm growing oyster and lion’s mane with home grow kits.",
+    "domain_names": [
+      "FungiFieldFarm.com",
+      "OysterAndMane.co",
+      "GrowYourMushroom.shop"
+    ]
+  },
+  {
+    "business_description": "A mobile app that helps renters document move-in conditions with timestamped photos.",
+    "domain_names": [
+      "MoveInProof.com",
+      "RenterRecord.io",
+      "LeaseLens.app"
+    ]
+  },
+  {
+    "business_description": "An online platform for live chess lessons and tournament play with coaches.",
+    "domain_names": [
+      "ChessClassLive.com",
+      "CoachAndCastle.io",
+      "BlitzAndLearn.club"
+    ]
+  },
+  {
+    "business_description": "A micro-mobility maintenance company servicing e-bikes and scooters for fleets.",
+    "domain_names": [
+      "FleetWheelWorks.com",
+      "MicroMoveMaintain.co",
+      "EbikeServiceHub.io"
+    ]
+  },
+  {
+    "business_description": "A specialty grocery selling Southeast Asian staples and street food kits.",
+    "domain_names": [
+      "SaigonAndSpice.com",
+      "StreetFoodKit.co",
+      "SEAshelf.shop"
+    ]
+  },
+  {
+    "business_description": "A climate tech fund investing in carbon removal and hard-to-abate sectors.",
+    "domain_names": [
+      "HardToAbateCapital.com",
+      "CarbonLift.fund",
+      "RemovalsVC.co"
+    ]
+  },
+  {
+    "business_description": "Adult social network with explicit profiles and erotic messaging",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Local bakery specializing in vegan croissants and laminated doughs.",
+    "domain_names": [
+      "VeganLaminate.com",
+      "ButterlessLayers.co",
+      "PlantPastry.shop"
+    ]
+  },
+  {
+    "business_description": "A circular fashion marketplace allowing customers to rent designer clothing.",
+    "domain_names": [
+      "RentTheRunway? Note: Use alternative",
+      "LoopLuxe.co",
+      "StyleCycle.rentals"
+    ]
+  },
+  {
+    "business_description": "A boutique robotics firm building custom AMRs for warehouse picking.",
+    "domain_names": [
+      "PickPathRobotics.com",
+      "AMRcustom.io",
+      "WarehouseRover.tech"
+    ]
+  },
+  {
+    "business_description": "An adult cam platform promoting explicit live shows and private chats",
+    "domain_names": [
+      "Request rejected: inappropriate content"
+    ]
+  },
+  {
+    "business_description": "Local bikepacking outfitter renting gear and planning multi-day routes.",
+    "domain_names": [
+      "PackAndPedalOutfitters.com",
+      "BikepackRentals.co",
+      "MultiDayRoutes.guide"
+    ]
+  },
+  {
+    "business_description": "A mobile app for tracking home maintenance with seasonal reminders and checklists.",
+    "domain_names": [
+      "HomeMinder.app",
+      "SeasonalFix.io",
+      "HouseUpkeep.co"
+    ]
+  },
+  {
+    "business_description": "B2B SaaS for food manufacturers to manage allergens and traceability compliance.",
+    "domain_names": [
+      "AllergenTrack.io",
+      "FoodTracePro.com",
+      "ComplianceKitchen.app"
+    ]
+  },
+  {
+    "business_description": "A plant-based meal prep service delivering fresh, ready-to-heat vegan dishes to busy professionals in major cities.",
+    "domain_names": [
+      "urbanvegpreps.com",
+      "plantplate.co",
+      "vegready.io"
+    ]
+  },
+  {
+    "business_description": "A cloud-based inventory management platform for small retailers, offering real-time stock tracking and POS integrations.",
+    "domain_names": [
+      "stockpilot.io",
+      "retailtrackr.com",
+      "invengo.app"
+    ]
+  },
+  {
+    "business_description": "An artisanal bakery specializing in sourdough breads and seasonal pastries, with a weekly subscription box.",
+    "domain_names": [
+      "wildcrumbbakery.com",
+      "sourdoughweekly.co",
+      "ovenandgrain.shop"
+    ]
+  },
+  {
+    "business_description": "A telehealth clinic focused on dermatology, providing virtual consultations and customized skincare plans.",
+    "domain_names": [
+      "dermatelecare.com",
+      "skinconsults.health",
+      "clearcomplexion.clinic"
+    ]
+  },
+  {
+    "business_description": "A boutique interior design studio that blends Scandinavian minimalism with biophilic elements for modern homes.",
+    "domain_names": [
+      "nordleafdesign.com",
+      "scandibiophilia.co",
+      "calmnest.studio"
+    ]
+  },
+  {
+    "business_description": "A nonprofit that organizes community tree-planting events and educates youth about urban forestry.",
+    "domain_names": [
+      "citycanopy.org",
+      "growourstreets.org",
+      "urbantreesproject.org"
+    ]
+  },
+  {
+    "business_description": "A mobile app that helps college students find peer tutors on-demand for STEM subjects.",
+    "domain_names": [
+      "stemstudybuddy.app",
+      "campustutors.io",
+      "peerprep.co"
+    ]
+  },
+  {
+    "business_description": "A premium cold brew coffee brand sourcing single-origin beans and shipping nationwide.",
+    "domain_names": [
+      "coldcraftedcoffee.com",
+      "singleoriginbrew.co",
+      "midnightdrip.coffee"
+    ]
+  },
+  {
+    "business_description": "A digital marketing agency helping local restaurants grow through SEO, social ads, and online ordering optimization.",
+    "domain_names": [
+      "forkandfound.com",
+      "dinegrowth.io",
+      "localplates.marketing"
+    ]
+  },
+  {
+    "business_description": "A handmade jewelry shop featuring ethically sourced gemstones and custom engraving.",
+    "domain_names": [
+      "kindgems.co",
+      "etchedaurum.com",
+      "ethicshine.shop"
+    ]
+  },
+  {
+    "business_description": "A cybersecurity consultancy offering penetration tests, cloud security reviews, and employee training.",
+    "domain_names": [
+      "redshieldsec.com",
+      "cloudfortify.io",
+      "pentestpartners.dev"
+    ]
+  },
+  {
+    "business_description": "A bilingual preschool providing play-based learning and immersive Spanish language exposure.",
+    "domain_names": [
+      "jugarandgrow.com",
+      "bilingueseeds.school",
+      "sproutspanish.kids"
+    ]
+  },
+  {
+    "business_description": "A neighborhood bike repair shop offering tune-ups, custom builds, and mobile roadside assistance.",
+    "domain_names": [
+      "cogandspoke.com",
+      "urbancyclefix.co",
+      "wheelwise.bike"
+    ]
+  },
+  {
+    "business_description": "A marketplace for sustainable fashion brands featuring recycled fabrics and transparent supply chains.",
+    "domain_names": [
+      "greenswatch.co",
+      "ethicthread.market",
+      "reviverack.shop"
+    ]
+  },
+  {
+    "business_description": "A data analytics consultancy turning messy spreadsheets into actionable dashboards for SMEs.",
+    "domain_names": [
+      "sheetstostrategy.com",
+      "dashwise.io",
+      "claridata.co"
+    ]
+  },
+  {
+    "business_description": "A farm-to-table meal kit company partnering with local farms for seasonal recipes and zero-waste packaging.",
+    "domain_names": [
+      "harvestkit.co",
+      "seasonplate.com",
+      "farmtotablebox.shop"
+    ]
+  },
+  {
+    "business_description": "A SaaS tool that automates invoice processing with OCR and integrates with popular accounting software.",
+    "domain_names": [
+      "invoise.io",
+      "billreader.app",
+      "ledgerlink.dev"
+    ]
+  },
+  {
+    "business_description": "A boutique fitness studio offering reformer Pilates classes and personalized training plans.",
+    "domain_names": [
+      "coreandform.studio",
+      "reformerlab.co",
+      "pilatespillar.fit"
+    ]
+  },
+  {
+    "business_description": "A language learning platform that pairs learners with native speakers for structured conversational practice.",
+    "domain_names": [
+      "talknative.io",
+      "linguapairs.com",
+      "speakeasycoach.app"
+    ]
+  },
+  {
+    "business_description": "A zero-waste grocery store providing refill stations for pantry staples and eco-friendly household products.",
+    "domain_names": [
+      "jarandrefill.com",
+      "zerowastepantry.co",
+      "bulkbetter.shop"
+    ]
+  },
+  {
+    "business_description": "A boutique travel agency curating slow-travel itineraries focused on culture, cuisine, and community.",
+    "domain_names": [
+      "slowmaptravel.com",
+      "wanderwithin.co",
+      "cultureroutes.travel"
+    ]
+  },
+  {
+    "business_description": "A pet grooming and wellness spa offering aromatherapy baths, nail trims, and nutrition consultations.",
+    "domain_names": [
+      "pawsandpolish.com",
+      "wellnesswhiskers.pet",
+      "groomgrove.co"
+    ]
+  },
+  {
+    "business_description": "A cloud kitchen brand serving gourmet ramen for delivery and pickup with rotating seasonal menus.",
+    "domain_names": [
+      "steepandslurp.com",
+      "ramencloud.co",
+      "brothlab.kitchen"
+    ]
+  },
+  {
+    "business_description": "A real estate photography and 3D tour studio helping agents sell listings faster with immersive visuals.",
+    "domain_names": [
+      "frameandfloorplan.com",
+      "listingsphere.io",
+      "keyview.media"
+    ]
+  },
+  {
+    "business_description": "A mental wellness app offering CBT-based exercises, guided journaling, and licensed therapist matches.",
+    "domain_names": [
+      "mindmend.app",
+      "cogniwell.io",
+      "journifycare.health"
+    ]
+  },
+  {
+    "business_description": "A craft brewery focusing on small-batch sours and barrel-aged beers, with a community taproom.",
+    "domain_names": [
+      "oakandhops.com",
+      "sourbarrel.co",
+      "taproomtide.beer"
+    ]
+  },
+  {
+    "business_description": "A subscription box delivering STEM experiments for kids with hands-on kits and online tutorials.",
+    "domain_names": [
+      "tinkertrails.com",
+      "minimakersbox.co",
+      "labinabox.kids"
+    ]
+  },
+  {
+    "business_description": "A fintech startup offering fee-free budgeting accounts and AI-driven savings coaching for Gen Z.",
+    "domain_names": [
+      "sproutspend.com",
+      "pennypilot.io",
+      "genzledger.app"
+    ]
+  },
+  {
+    "business_description": "A solar panel installation company specializing in residential rooftops and battery storage solutions.",
+    "domain_names": [
+      "sunsetgrid.com",
+      "rooftoprenew.co",
+      "storagesparc.energy"
+    ]
+  },
+  {
+    "business_description": "A boutique law firm focusing on startups, IP protection, and venture financing.",
+    "domain_names": [
+      "termshields.com",
+      "seedandstatute.law",
+      "founderscounsel.co"
+    ]
+  },
+  {
+    "business_description": "A curated online bookstore featuring diverse authors, indie presses, and virtual author talks.",
+    "domain_names": [
+      "spinesandstories.com",
+      "indieshelf.store",
+      "bookmosaic.co"
+    ]
+  },
+  {
+    "business_description": "A drone surveying service for construction sites, delivering terrain models and progress tracking.",
+    "domain_names": [
+      "siteaerials.com",
+      "buildscan.io",
+      "dronedraft.co"
+    ]
+  },
+  {
+    "business_description": "A social enterprise cafe employing and training young adults transitioning out of foster care.",
+    "domain_names": [
+      "secondchancecafe.org",
+      "brewforbetter.org",
+      "upliftcup.co"
+    ]
+  },
+  {
+    "business_description": "A marketplace for handcrafted home decor, connecting global artisans with conscious consumers.",
+    "domain_names": [
+      "terrahand.co",
+      "artisanabode.com",
+      "rootandrug.market"
+    ]
+  },
+  {
+    "business_description": "A fleet management platform for last-mile delivery businesses with route optimization and telematics.",
+    "domain_names": [
+      "milemaster.io",
+      "deliverdrive.co",
+      "routeforge.dev"
+    ]
+  },
+  {
+    "business_description": "A local flower shop specializing in native wildflower bouquets and eco-friendly wedding arrangements.",
+    "domain_names": [
+      "wildstemsfloral.com",
+      "nativeblooms.co",
+      "greenpetal.shop"
+    ]
+  },
+  {
+    "business_description": "A home organizing service that declutters, designs storage systems, and offers donation hauling.",
+    "domain_names": [
+      "tidyhabit.co",
+      "closetcrafts.com",
+      "orderlynest.services"
+    ]
+  },
+  {
+    "business_description": "A VR studio creating immersive historical tours for museums and educational institutions.",
+    "domain_names": [
+      "epochvr.studio",
+      "museimmersion.com",
+      "timewalkvr.io"
+    ]
+  },
+  {
+    "business_description": "A specialty tea company focusing on single-estate oolongs and rare pu-erh, with virtual tasting sessions.",
+    "domain_names": [
+      "leafandlore.com",
+      "steepharbor.tea",
+      "oolongorigins.co"
+    ]
+  },
+  {
+    "business_description": "A construction firm delivering energy-efficient tiny homes with off-grid capabilities.",
+    "domain_names": [
+      "tinysagehomes.com",
+      "offgriddwell.co",
+      "microhabitat.build"
+    ]
+  },
+  {
+    "business_description": "A podcast production agency that scripts, records, and markets branded audio series for companies.",
+    "domain_names": [
+      "soundfoundry.fm",
+      "brandcast.studio",
+      "audionorth.co"
+    ]
+  },
+  {
+    "business_description": "A mobile mechanic service offering on-site diagnostics, repairs, and fleet maintenance.",
+    "domain_names": [
+      "wrenchway.co",
+      "drivesidegarage.com",
+      "pitstopmobile.auto"
+    ]
+  },
+  {
+    "business_description": "A healthtech platform that simplifies pre-op patient education and digital consent workflows.",
+    "domain_names": [
+      "readyforsurgery.health",
+      "consentclear.io",
+      "preopguide.com"
+    ]
+  },
+  {
+    "business_description": "A portfolio website builder tailored for photographers with client proofing and print sales integrated.",
+    "domain_names": [
+      "framefolio.app",
+      "lensandlab.io",
+      "shootandshow.co"
+    ]
+  },
+  {
+    "business_description": "A recycled furniture studio transforming reclaimed wood into custom dining tables and shelving.",
+    "domain_names": [
+      "grainandgrit.co",
+      "reclaimcrafted.com",
+      "timberturn.studio"
+    ]
+  },
+  {
+    "business_description": "A meal planning app for athletes with macro tracking, coach feedback, and grocery list automation.",
+    "domain_names": [
+      "macromentor.app",
+      "athleteplate.io",
+      "fuelandform.fit"
+    ]
+  },
+  {
+    "business_description": "A boutique PR firm helping climate tech startups craft narratives and land media coverage.",
+    "domain_names": [
+      "climatecomms.co",
+      "greenheadline.pr",
+      "storystem.io"
+    ]
+  },
+  {
+    "business_description": "A precision agriculture company offering soil sensors and AI-driven irrigation recommendations.",
+    "domain_names": [
+      "fieldfluence.ag",
+      "soilwise.io",
+      "irrigent.ai"
+    ]
+  },
+  {
+    "business_description": "A language translation agency specializing in legal and compliance documents across 30+ languages.",
+    "domain_names": [
+      "lexitranslate.com",
+      "compliancelingo.co",
+      "jurislingua.io"
+    ]
+  },
+  {
+    "business_description": "A boutique candle brand using soy wax and essential oils, with refill and container return programs.",
+    "domain_names": [
+      "emberandearth.co",
+      "refillglow.com",
+      "cleanwick.shop"
+    ]
+  },
+  {
+    "business_description": "An online platform for virtual hackathons, providing team formation, scoring, and sponsor tools.",
+    "domain_names": [
+      "hackhub.io",
+      "devrally.app",
+      "codeclash.events"
+    ]
+  },
+  {
+    "business_description": "A gourmet dog treat bakery using human-grade ingredients and customized birthday cakes for pets.",
+    "domain_names": [
+      "barkandbatter.com",
+      "pawtryfresh.co",
+      "wholesomewoofs.pet"
+    ]
+  },
+  {
+    "business_description": "A small-town hardware store offering tool rentals, DIY workshops, and curbside pickup.",
+    "domain_names": [
+      "rivervalleyhardware.com",
+      "toolandteach.co",
+      "fixitlocal.shop"
+    ]
+  },
+  {
+    "business_description": "A boutique hostel brand offering design-forward communal spaces and curated city experiences.",
+    "domain_names": [
+      "stayandstory.com",
+      "urbanlodger.co",
+      "commonkeys.stay"
+    ]
+  },
+  {
+    "business_description": "An IoT startup building smart thermostats for apartments with energy-saving automation.",
+    "domain_names": [
+      "aptsense.io",
+      "heatwise.dev",
+      "smartstay.energy"
+    ]
+  },
+  {
+    "business_description": "A green landscaping company that installs native gardens and water-wise irrigation systems.",
+    "domain_names": [
+      "nativeyard.co",
+      "bluerootlandscape.com",
+      "waterwisegreen.garden"
+    ]
+  },
+  {
+    "business_description": "A 3D printing studio producing custom prototypes and short-run parts for hardware startups.",
+    "domain_names": [
+      "layerlab3d.com",
+      "printforge.co",
+      "rapidmesh.studio"
+    ]
+  },
+  {
+    "business_description": "A senior care agency providing in-home support, medication reminders, and companionship.",
+    "domain_names": [
+      "kindlycarers.com",
+      "homeheartcare.co",
+      "elderease.health"
+    ]
+  },
+  {
+    "business_description": "A mobile app that gamifies personal finance to help teens learn budgeting and saving habits.",
+    "domain_names": [
+      "coinquest.app",
+      "teenbudgethero.com",
+      "piggyprogress.io"
+    ]
+  },
+  {
+    "business_description": "A boutique barbershop offering classic cuts, hot towel shaves, and premium grooming products.",
+    "domain_names": [
+      "steelandstrop.com",
+      "classiccutco.co",
+      "barberhaven.shop"
+    ]
+  },
+  {
+    "business_description": "A vintage clothing store curated from the 70s–90s, with drop-based online releases.",
+    "domain_names": [
+      "retrorevive.co",
+      "pastperfectvintage.com",
+      "dropthrift.shop"
+    ]
+  },
+  {
+    "business_description": "A specialty running store with gait analysis, custom insoles, and community race training.",
+    "domain_names": [
+      "strideandscience.com",
+      "runfitlab.co",
+      "pacecollective.run"
+    ]
+  },
+  {
+    "business_description": "A creative agency crafting brand identities, motion graphics, and marketing sites for tech startups.",
+    "domain_names": [
+      "pixelandpulse.studio",
+      "brandsplice.co",
+      "motionmint.io"
+    ]
+  },
+  {
+    "business_description": "A nonprofit coding bootcamp for refugees and immigrants, offering career mentorship and job placement.",
+    "domain_names": [
+      "welcome2code.org",
+      "newrootsdev.org",
+      "refugeetechpath.org"
+    ]
+  },
+  {
+    "business_description": "A handmade soap brand using botanicals and minimal packaging, with seasonal scents.",
+    "domain_names": [
+      "fieldandfoam.com",
+      "botanicbar.co",
+      "purepalm.shop"
+    ]
+  },
+  {
+    "business_description": "A mobile app that tracks home utility usage and suggests energy-saving actions and rebates.",
+    "domain_names": [
+      "wattwise.app",
+      "homeeco.io",
+      "savermeter.energy"
+    ]
+  },
+  {
+    "business_description": "A kids’ coding club offering after-school programs and summer camps in robotics and game design.",
+    "domain_names": [
+      "codecritters.club",
+      "roboplaylab.co",
+      "kiddevcamp.io"
+    ]
+  },
+  {
+    "business_description": "A digital collectibles marketplace for indie game assets, sprites, and sound packs.",
+    "domain_names": [
+      "assetarcade.io",
+      "pixeltrove.market",
+      "gamedevstash.com"
+    ]
+  },
+  {
+    "business_description": "A boutique film studio producing documentary shorts and branded content for social impact causes.",
+    "domain_names": [
+      "causeframe.film",
+      "impactreel.co",
+      "storycivic.media"
+    ]
+  },
+  {
+    "business_description": "A nutritionist-led service offering personalized meal plans and grocery coaching for families.",
+    "domain_names": [
+      "familyfork.co",
+      "nutrihomeguide.com",
+      "pantrypath.health"
+    ]
+  },
+  {
+    "business_description": "A commercial cleaning company specializing in medical offices and compliance-grade sanitation.",
+    "domain_names": [
+      "cliniccleanpro.com",
+      "sterisure.co",
+      "medfacilityfresh.services"
+    ]
+  }
+]
