@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/dom-name-gen/mlruns/961639524632620381/0967efb4ca8d4f25bccb1bf9c7b848bf/artifacts
+end_time: 1757926428551
+entry_point_name: ''
+experiment_id: '961639524632620381'
+lifecycle_stage: active
+run_id: 0967efb4ca8d4f25bccb1bf9c7b848bf
+run_name: llama-sft-run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757926065281
+status: 4
+tags: []
+user_id: root

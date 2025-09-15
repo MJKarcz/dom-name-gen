@@ -2,8 +2,9 @@
 
 whatIDidStepByStep.txt
 .env
-
-
+meta-llama/
+complete_checkpoint/
+workspace/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
